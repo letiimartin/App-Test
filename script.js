@@ -17,7 +17,7 @@ function loadMenu() {
     const themeElement = document.createElement('div');
     themeElement.classList.add('theme');
     themeElement.innerHTML = `<h2>TEMA 1: La biología celular como disciplina</h2>`;
-    for (let test = 1; test <= 10; test++) {
+    for (let test = 1; test <= 2; test++) {
         const testElement = document.createElement('a');
         testElement.href = `index.html?test=tests/tema1_test${test}.json`;
         testElement.textContent = `Test ${test}`;
