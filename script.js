@@ -21,6 +21,7 @@ function loadMenu() {
         const testElement = document.createElement('a');
         testElement.href = `index.html?test=tests/tema1_test${test}.json`;
         testElement.textContent = `Test ${test}`;
+        testElement.style.display = 'block'; // Asegúrate de que se muestren como bloques
         themeElement.appendChild(testElement);
     }
     menuContainer.appendChild(themeElement);
