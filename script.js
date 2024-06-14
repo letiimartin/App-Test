@@ -15,7 +15,12 @@ fetch('questions.json')
                 optionsElement.classList.add('options');
                 q.options.forEach((option, i) => {
                     const optionElement = document.createElement('li');
-                    optionElement.innerHTML = `<input type="radio" name="question${index}" value="${i}"> ${option}`;
+                    optionElement.innerHTML = `
+                        <label>
+                            <input type="radio" name="question${index}" value="${i}">
+                            ${option}
+                        </label>
+                    `;
                     optionsElement.appendChild(optionElement);
                 });
                 
@@ -28,6 +33,17 @@ fetch('questions.json')
             let score = 0;
             questions.forEach((q, index) => {
                 const selectedOption = document.querySelector(`input[name="question${index}"]:checked`);
+                const options = document.getElementsByName(`question${index}`);
+                options.forEach((option, i) => {
+                    const parentLabel = option.parentElement;
+                    if (parseInt(option.value) === q.answer) {
+                        parentLabel.style.color = 'green';
+                        parentLabel.innerHTML += ' <span>&#10003;</span>'; // Check mark
+                    } else if (option.checked) {
+                        parentLabel.style.color = 'red';
+                        parentLabel.innerHTML += ' <span>&#10007;</span>'; // X mark
+                    }
+                });
                 if (selectedOption && parseInt(selectedOption.value) === q.answer) {
                     score++;
                 }
@@ -44,3 +60,4 @@ fetch('questions.json')
 
         loadQuiz();
     });
+

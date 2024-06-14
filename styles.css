@@ -29,3 +29,19 @@ body {
     margin-top: 20px;
     font-weight: bold;
 }
+
+.correct {
+    color: green;
+}
+
+.incorrect {
+    color: red;
+}
+
+.correct::after {
+    content: " ✔";
+}
+
+.incorrect::after {
+    content: " ✘";
+}
