@@ -1,0 +1,53 @@
+[
+    {
+        "question": "¿Quién fue el primero en observar organismos microscópicos y los denominó 'animálculos'?",
+        "options": ["Robert Hooke", "Antony van Leeuwenhoek", "Galileo Galilei", "Zacarías Janssen"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué científico creó la nomenclatura binómica para clasificar los organismos?",
+        "options": ["Karl von Linneo", "Ernst Haeckel", "Louis Pasteur", "Edouard Chatton"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la principal función de las mitocondrias en las células eucariotas?",
+        "options": ["Capturar energía solar", "Generar ATP", "Sintetizar proteínas", "Regular el movimiento de sustancias"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué científico introdujo los términos procariótico y eucariótico?",
+        "options": ["Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton", "Herbert F. Copeland"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué organelo celular es característico de las células vegetales y está involucrado en la fotosíntesis?",
+        "options": ["Mitocondrias", "Lisosomas", "Cloroplastos", "Retículo endoplasmático"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de organismos pertenecen al reino Moneras?",
+        "options": ["Protistas y hongos", "Bacterias y cianobacterias", "Plantas y animales", "Virus y priones"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de los siguientes postulados NO forma parte de la teoría celular?",
+        "options": ["Unidad estructural", "Unidad genética", "Unidad fotosintética", "Unidad reproductiva"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué diferencia principal existe entre las células procariotas y eucariotas?",
+        "options": ["Las procariotas tienen mitocondrias", "Las eucariotas tienen un núcleo definido", "Las procariotas realizan fotosíntesis", "Las eucariotas no tienen citoesqueleto"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de los siguientes NO es un punto de vista para el estudio de los individuos en biología celular?",
+        "options": ["Temporal", "Dimensional", "Estructural", "Funcional"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué orgánulo es responsable de modificar químicamente las moléculas sintetizadas en el retículo endoplasmático?",
+        "options": ["Aparato de Golgi", "Lisosomas", "Peroxisomas", "Núcleo"],
+        "answer": 0
+    }
+]
+
