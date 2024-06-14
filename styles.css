@@ -1,3 +1,5 @@
+/* styles.css */
+
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
@@ -20,7 +22,7 @@ body {
     margin: 5px 0;
 }
 
-#submit-btn {
+#submit-btn, #retry-btn {
     display: block;
     margin: 20px 0;
 }
@@ -44,4 +46,23 @@ body {
 
 .incorrect::after {
     content: " ✘";
+}
+
+.theme {
+    margin-bottom: 20px;
+}
+
+.theme h2 {
+    margin-bottom: 10px;
+}
+
+.theme a {
+    display: block;
+    margin: 5px 0;
+    text-decoration: none;
+    color: blue;
+}
+
+.theme a:hover {
+    text-decoration: underline;
 }
