@@ -1,9 +1,13 @@
 document.addEventListener('DOMContentLoaded', function() {
-    if (window.location.pathname.endsWith('menu.html')) {
+    console.log("DOMContentLoaded event fired");
+    if (window.location.pathname.includes('menu.html')) {
+        console.log("Loading menu");
         loadMenu();
-    } else if (window.location.pathname.endsWith('index.html')) {
+    } else if (window.location.pathname.includes('index.html')) {
+        console.log("Loading test");
         const urlParams = new URLSearchParams(window.location.search);
         const testFile = urlParams.get('test');
+        console.log("Test file:", testFile);
         if (testFile) {
             loadTest(testFile);
         }
@@ -11,26 +15,34 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function loadMenu() {
+    console.log("Executing loadMenu");
     const menuContainer = document.getElementById('menu-container');
-
-    // Añadir el tema 1 y sus tests
     const themeElement = document.createElement('div');
     themeElement.classList.add('theme');
     themeElement.innerHTML = `<h2>TEMA 1: La biología celular como disciplina</h2>`;
-    for (let test = 1; test <= 2; test++) {
+    for (let test = 1; test <= 10; test++) {
         const testElement = document.createElement('a');
         testElement.href = `index.html?test=tests/tema1_test${test}.json`;
         testElement.textContent = `Test ${test}`;
-        testElement.style.display = 'block'; // Asegúrate de que se muestren como bloques
+        testElement.style.display = 'block';
         themeElement.appendChild(testElement);
     }
     menuContainer.appendChild(themeElement);
+    console.log("Menu loaded");
 }
 
 function loadTest(testFile) {
+    console.log("Fetching test file:", testFile);
     fetch(testFile)
-        .then(response => response.json())
+        .then(response => {
+            console.log("Response received:", response);
+            if (!response.ok) {
+                throw new Error(`HTTP error! status: ${response.status}`);
+            }
+            return response.json();
+        })
         .then(questions => {
+            console.log("Questions loaded:", questions);
             const quizContainer = document.getElementById('quiz-container');
             const submitBtn = document.getElementById('submit-btn');
             const retryBtn = document.getElementById('retry-btn');
@@ -106,5 +118,9 @@ function loadTest(testFile) {
             retryBtn.addEventListener('click', resetQuiz);
 
             loadQuiz();
+        })
+        .catch(error => {
+            console.error('Error al cargar el archivo JSON:', error);
+            document.getElementById('quiz-container').innerHTML = '<p>No se pudo cargar el test. Por favor, inténtelo de nuevo más tarde.</p>';
         });
 }
