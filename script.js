@@ -3,9 +3,11 @@ fetch('questions.json')
     .then(questions => {
         const quizContainer = document.getElementById('quiz-container');
         const submitBtn = document.getElementById('submit-btn');
+        const retryBtn = document.getElementById('retry-btn');
         const resultContainer = document.getElementById('result-container');
 
         function loadQuiz() {
+            quizContainer.innerHTML = '';
             questions.forEach((q, index) => {
                 const questionElement = document.createElement('div');
                 questionElement.classList.add('question');
@@ -43,6 +45,8 @@ fetch('questions.json')
                         parentLabel.style.color = 'red';
                         parentLabel.innerHTML += ' <span>&#10007;</span>'; // X mark
                     }
+                    // Disable all options
+                    option.disabled = true;
                 });
                 if (selectedOption && parseInt(selectedOption.value) === q.answer) {
                     score++;
@@ -54,10 +58,19 @@ fetch('questions.json')
         function showResults() {
             const score = calculateResults();
             resultContainer.innerHTML = `Obtuviste ${score} de ${questions.length} respuestas correctas.`;
+            submitBtn.style.display = 'none';
+            retryBtn.style.display = 'block';
+        }
+
+        function resetQuiz() {
+            loadQuiz();
+            resultContainer.innerHTML = '';
+            submitBtn.style.display = 'block';
+            retryBtn.style.display = 'none';
         }
 
         submitBtn.addEventListener('click', showResults);
+        retryBtn.addEventListener('click', resetQuiz);
 
         loadQuiz();
     });
-
