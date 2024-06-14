@@ -1,5 +1,3 @@
-// script.js
-
 document.addEventListener('DOMContentLoaded', function() {
     if (window.location.pathname.endsWith('menu.html')) {
         loadMenu();
@@ -14,20 +12,18 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function loadMenu() {
     const menuContainer = document.getElementById('menu-container');
-    const themes = 10;
-    const testsPerTheme = 10;
-    for (let theme = 1; theme <= themes; theme++) {
-        const themeElement = document.createElement('div');
-        themeElement.classList.add('theme');
-        themeElement.innerHTML = `<h2>Tema ${theme}</h2>`;
-        for (let test = 1; test <= testsPerTheme; test++) {
-            const testElement = document.createElement('a');
-            testElement.href = `index.html?test=tests/tema${theme}_test${test}.json`;
-            testElement.textContent = `Test ${test}`;
-            themeElement.appendChild(testElement);
-        }
-        menuContainer.appendChild(themeElement);
+
+    // Añadir el tema 1 y sus tests
+    const themeElement = document.createElement('div');
+    themeElement.classList.add('theme');
+    themeElement.innerHTML = `<h2>TEMA 1: La biología celular como disciplina</h2>`;
+    for (let test = 1; test <= 10; test++) {
+        const testElement = document.createElement('a');
+        testElement.href = `index.html?test=tests/tema1_test${test}.json`;
+        testElement.textContent = `Test ${test}`;
+        themeElement.appendChild(testElement);
     }
+    menuContainer.appendChild(themeElement);
 }
 
 function loadTest(testFile) {
