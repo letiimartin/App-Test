@@ -1,0 +1,52 @@
+[
+    {
+        "question": "1. ¿Cuál de las siguientes técnicas permite observar la circulación sanguínea en pequeños vasos?",
+        "options": ["Cámaras transparentes", "Transiluminación", "Tomografía por emisión de positrones", "Microscopía electrónica de transmisión"],
+        "answer": 0
+    },
+    {
+        "question": "2. ¿Qué técnica se utiliza para liberar los componentes internos de las células?",
+        "options": ["Homogeneización", "Ultracentrifugación", "Microtomo de congelación", "Microscopía de contraste de fases"],
+        "answer": 0
+    },
+    {
+        "question": "3. ¿Cuál es la diferencia principal entre el microtomo de parafina y el criostato?",
+        "options": ["El microtomo de parafina corta secciones de tejido congelado y el criostato corta secciones embebidas en parafina", "El microtomo de parafina se utiliza para cortes en fresco y el criostato para cortes fijados", "El microtomo de parafina corta secciones de tejido embebido en parafina y el criostato corta secciones de material congelado", "El microtomo de parafina utiliza ultrasonidos y el criostato usa láser"],
+        "answer": 2
+    },
+    {
+        "question": "4. La técnica de PET se emplea principalmente para:",
+        "options": ["Estudiar la circulación en pequeños vasos en vivo", "Visualizar órganos internos mediante transparencia", "Detectar elementos radiactivos sin sacrificar al organismo", "Cortar rebanadas de material congelado"],
+        "answer": 2
+    },
+    {
+        "question": "5. ¿Qué instrumento se utiliza para obtener imágenes tridimensionales mediante un haz de electrones?",
+        "options": ["Microscopio de transmisión convencional (TEM)", "Microscopio de barrido convencional (SEM)", "Microscopio confocal", "Microscopio de luz polarizada"],
+        "answer": 1
+    },
+    {
+        "question": "6. La técnica de digestión enzimática se usa para:",
+        "options": ["Separar y disociar células mediante la digestión de componentes extracelulares", "Realizar la observación de la circulación en vasos pequeños", "Cortar secciones de tejido fijado con parafina", "Visualizar estructuras tridimensionales con un rayo láser"],
+        "answer": 0
+    },
+    {
+        "question": "7. ¿Qué tipo de microscopio se utiliza para observar células vivas sin necesidad de teñirlas?",
+        "options": ["Microscopio de fluorescencia", "Microscopio de luz polarizada", "Microscopio de contraste de fases", "Microscopio confocal"],
+        "answer": 2
+    },
+    {
+        "question": "8. ¿Cuál es el objetivo principal de la técnica del frotis en biología celular?",
+        "options": ["Cortar secciones finas de material congelado", "Separar componentes celulares por ultracentrifugación", "Extender una muestra de fluido corporal sobre un portaobjetos para su análisis", "Visualizar estructuras internas mediante transiluminación"],
+        "answer": 2
+    },
+    {
+        "question": "9. ¿Qué característica es esencial en la técnica de cámaras transparentes?",
+        "options": ["La utilización de un rayo láser para iluminación", "La observación de la circulación sanguínea en vivo", "La obtención de secciones finas mediante ultracentrifugación", "La extensión de una muestra de fluido corporal"],
+        "answer": 1
+    },
+    {
+        "question": "10. La técnica de maceración se refiere a:",
+        "options": ["Cortar secciones de material congelado", "Separar células sumergiendo tejido en un líquido para ablandarlo", "Utilizar ultrasonidos para disociar células", "Extender una muestra de fluido corporal sobre un portaobjetos"],
+        "answer": 1
+    }
+]
