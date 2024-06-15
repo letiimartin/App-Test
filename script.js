@@ -21,17 +21,31 @@ document.addEventListener('DOMContentLoaded', function() {
 function loadMenu() {
     console.log("Executing loadMenu");
     const menuContainer = document.getElementById('menu-container');
-    const themeElement = document.createElement('div');
-    themeElement.classList.add('theme');
-    themeElement.innerHTML = `<h2>TEMA 1: La biología celular como disciplina</h2>`;
-    for (let test = 1; test <= 10; test++) {
-        const testElement = document.createElement('a');
-        testElement.href = `test.html?test=tests/tema1_test${test}.json`;
-        testElement.textContent = `Test ${test}`;
-        testElement.style.display = 'block';
-        themeElement.appendChild(testElement);
-    }
-    menuContainer.appendChild(themeElement);
+
+    const themes = [
+        { title: "TEMA 1: LA BIOLOGÍA CELULAR COMO DISCIPLINA", base: "tema1_test" },
+        { title: "TEMA 2: MÉTODOS Y TÉCNICAS EN BIOLOGÍA CELULAR", base: "tema2_test" },
+        { title: "TEMA 3: MEMBRANAS CELULARES", base: "tema3_test" },
+        { title: "TEMA 4: TRANSPORTE A TRAVÉS DE LAS MEMBRANAS CELULARES", base: "tema4_test" },
+        { title: "TEMA 5: EL CITOSOL Y LOS RIBOSOMAS", base: "tema5_test" },
+        { title: "TEMA 6: PROTEÍNAS DE ESTRÉS Y SISTEMAS CELULARES DE ELIMINACIÓN DE PROTEÍNAS", base: "tema6_test" },
+        { title: "TEMA 7 A 9: EL CITOESQUELETO", base: "tema7a9_test" }
+    ];
+
+    themes.forEach(theme => {
+        const themeElement = document.createElement('div');
+        themeElement.classList.add('theme');
+        themeElement.innerHTML = `<h2>${theme.title}</h2>`;
+        for (let test = 1; test <= 10; test++) {
+            const testElement = document.createElement('a');
+            testElement.href = `test.html?test=tests/${theme.base}${test}.json`;
+            testElement.textContent = `Test ${test}`;
+            testElement.style.display = 'block';
+            themeElement.appendChild(testElement);
+        }
+        menuContainer.appendChild(themeElement);
+    });
+
     console.log("Menu loaded");
 }
 
