@@ -153,10 +153,14 @@ function markAnswers(questions) {
             const parentLabel = option.parentElement;
             if (parseInt(option.value) === q.answer) {
                 parentLabel.style.color = 'green';
-                parentLabel.innerHTML += ' <span>&#10003;</span>'; // Check mark
+                if (!parentLabel.innerHTML.includes('✔')) {
+                    parentLabel.innerHTML += ' <span>&#10003;</span>'; // Check mark
+                }
             } else if (option.checked) {
                 parentLabel.style.color = 'red';
-                parentLabel.innerHTML += ' <span>&#10007;</span>'; // X mark
+                if (!parentLabel.innerHTML.includes('✘')) {
+                    parentLabel.innerHTML += ' <span>&#10007;</span>'; // X mark
+                }
             }
             option.disabled = true; // Disable all options
         });
