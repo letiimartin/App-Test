@@ -1,0 +1,52 @@
+[
+    {
+        "question": "1. ¿Qué científico introdujo el término 'procariótico'?",
+        "options": ["Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton", "Herbert F. Copeland"],
+        "answer": 2
+    },
+    {
+        "question": "2. ¿Cuál de los siguientes orgánulos está involucrado en la fotosíntesis?",
+        "options": ["Mitocondrias", "Cloroplastos", "Lisosomas", "Aparato de Golgi"],
+        "answer": 1
+    },
+    {
+        "question": "3. ¿Qué estructura celular regula el movimiento de sustancias entre el interior y el exterior de la célula?",
+        "options": ["Membrana plasmática", "Pared celular", "Citoplasma", "Núcleo"],
+        "answer": 0
+    },
+    {
+        "question": "4. ¿Quién es conocido como el 'padre de la microbiología'?",
+        "options": ["Robert Hooke", "Antoni van Leeuwenhoek", "Galileo Galilei", "Zacarías Janssen"],
+        "answer": 1
+    },
+    {
+        "question": "5. ¿Qué organelo celular contiene enzimas que degradan peróxido de hidrógeno?",
+        "options": ["Lisosomas", "Mitocondrias", "Peroxisomas", "Cloroplastos"],
+        "answer": 2
+    },
+    {
+        "question": "6. ¿Qué científico clasificó a los organismos en cuatro reinos: moneras, protistas, metafitas y metazoos?",
+        "options": ["Herbert F. Copeland", "Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton"],
+        "answer": 0
+    },
+    {
+        "question": "7. ¿Cuál es la función principal de los ribosomas en la célula?",
+        "options": ["Síntesis de proteínas", "Síntesis de lípidos", "Producción de energía", "Almacenamiento de calcio"],
+        "answer": 0
+    },
+    {
+        "question": "8. ¿Qué orgánulo está rodeado por una doble membrana y contiene material genético?",
+        "options": ["Núcleo", "Lisosomas", "Retículo endoplasmático", "Aparato de Golgi"],
+        "answer": 0
+    },
+    {
+        "question": "9. ¿Qué científico describió la existencia de estructuras elementales repetidas en la corteza del alcornoque a las que denominó 'células'?",
+        "options": ["Robert Hooke", "Antoni van Leeuwenhoek", "Galileo Galilei", "Zacarías Janssen"],
+        "answer": 0
+    },
+    {
+        "question": "10. ¿Cuál de los siguientes no es un reino propuesto por Carl R. Woese en su clasificación de 1977?",
+        "options": ["Eubacterias", "Arqueobacterias", "Protistas", "Virus"],
+        "answer": 3
+    }
+]

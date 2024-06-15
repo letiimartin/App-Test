@@ -1,0 +1,52 @@
+[
+    {
+        "question": "1. ¿Qué científico contribuyó a la caída de la teoría de la generación espontánea?",
+        "options": ["Louis Pasteur", "Antoni van Leeuwenhoek", "Ernst Haeckel", "Karl von Linneo"],
+        "answer": 0
+    },
+    {
+        "question": "2. ¿Cuál de los siguientes reinos incluye organismos que pueden ser unicelulares o coloniales y tienen material genético delimitado por una membrana?",
+        "options": ["Moneras", "Protistas", "Hongos", "Metafitas"],
+        "answer": 1
+    },
+    {
+        "question": "3. ¿Qué orgánulo celular se encarga de la digestión intracelular?",
+        "options": ["Lisosomas", "Mitocondrias", "Aparato de Golgi", "Retículo endoplasmático"],
+        "answer": 0
+    },
+    {
+        "question": "4. ¿Cuál es la función principal del retículo endoplasmático rugoso?",
+        "options": ["Síntesis de proteínas", "Síntesis de lípidos", "Detoxificación de sustancias", "Almacenamiento de calcio"],
+        "answer": 0
+    },
+    {
+        "question": "5. ¿Qué científico clasificó a los organismos en cinco reinos incluyendo moneras, protistas, plantas, hongos y animales?",
+        "options": ["Herbert F. Copeland", "Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton"],
+        "answer": 1
+    },
+    {
+        "question": "6. ¿Qué estructura celular es característica de las células vegetales y proporciona soporte y protección?",
+        "options": ["Membrana plasmática", "Pared celular", "Citoesqueleto", "Cloroplastos"],
+        "answer": 1
+    },
+    {
+        "question": "7. ¿Cuál es la principal diferencia entre los viroides y los priones?",
+        "options": ["Los viroides afectan a plantas y los priones a animales", "Los viroides tienen cápside y los priones no", "Los viroides tienen material genético y los priones no", "Los viroides se replican en el citoplasma y los priones en el núcleo"],
+        "answer": 0
+    },
+    {
+        "question": "8. ¿Qué científico propuso que todas las plantas están formadas por células?",
+        "options": ["Theodor Schwann", "Matthias Schleiden", "Rudolf Virchow", "Louis Pasteur"],
+        "answer": 1
+    },
+    {
+        "question": "9. ¿Qué organelo celular está involucrado en la síntesis de lípidos y detoxificación de sustancias?",
+        "options": ["Retículo endoplasmático liso", "Retículo endoplasmático rugoso", "Aparato de Golgi", "Mitocondrias"],
+        "answer": 0
+    },
+    {
+        "question": "10. ¿Cuál de los siguientes no es un componente de la teoría celular?",
+        "options": ["Unidad estructural", "Unidad genética", "Unidad fotosintética", "Unidad fisiológica"],
+        "answer": 2
+    }
+]

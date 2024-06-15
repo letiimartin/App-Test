@@ -1,0 +1,52 @@
+[
+    {
+        "question": "1. ¿Qué científico clasificó a los organismos en seis reinos en 1977?",
+        "options": ["Herbert F. Copeland", "Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton"],
+        "answer": 2
+    },
+    {
+        "question": "2. ¿Cuál de los siguientes orgánulos es responsable de la síntesis de proteínas?",
+        "options": ["Mitocondrias", "Ribosomas", "Peroxisomas", "Cloroplastos"],
+        "answer": 1
+    },
+    {
+        "question": "3. ¿Qué estructura celular está formada por una bicapa lipídica y proteínas?",
+        "options": ["Núcleo", "Retículo endoplasmático", "Membrana plasmática", "Pared celular"],
+        "answer": 3
+    },
+    {
+        "question": "4. ¿Qué científico fabricó su propio microscopio y observó diferentes organismos en su libro Micrographia?",
+        "options": ["Robert Hooke", "Antoni van Leeuwenhoek", "Galileo Galilei", "Zacarías Janssen"],
+        "answer": 0
+    },
+    {
+        "question": "5. ¿Qué organelo celular es conocido como la 'central energética' de la célula?",
+        "options": ["Cloroplastos", "Mitocondrias", "Lisosomas", "Aparato de Golgi"],
+        "answer": 1
+    },
+    {
+        "question": "6. ¿Qué científico clasificó a los organismos en cinco reinos en 1969?",
+        "options": ["Herbert F. Copeland", "Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton"],
+        "answer": 1
+    },
+    {
+        "question": "7. ¿Cuál es la función principal de los lisosomas?",
+        "options": ["Síntesis de proteínas", "Síntesis de lípidos", "Digestión intracelular", "Almacenamiento de calcio"],
+        "answer": 2
+    },
+    {
+        "question": "8. ¿Qué orgánulo está involucrado en la síntesis de lípidos y detoxificación de sustancias?",
+        "options": ["Retículo endoplasmático liso", "Retículo endoplasmático rugoso", "Aparato de Golgi", "Mitocondrias"],
+        "answer": 0
+    },
+    {
+        "question": "9. ¿Qué científico introdujo el término 'eucariótico'?",
+        "options": ["Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton", "Herbert F. Copeland"],
+        "answer": 2
+    },
+    {
+        "question": "10. ¿Cuál de los siguientes no es un componente de la teoría celular?",
+        "options": ["Unidad estructural", "Unidad genética", "Unidad fotosintética", "Unidad fisiológica"],
+        "answer": 2
+    }
+]
