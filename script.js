@@ -1,22 +1,21 @@
 document.addEventListener('DOMContentLoaded', function() {
     console.log("DOMContentLoaded event fired");
     if (window.location.pathname.endsWith('/index.html') || window.location.pathname === '/App-Test/') {
-        console.log("Loading menu");
         loadMenu();
     } else if (window.location.pathname.endsWith('test.html')) {
-        console.log("Loading test");
         const urlParams = new URLSearchParams(window.location.search);
         const tema = urlParams.get('tema');
+        const testNumber = urlParams.get('test');
         console.log("Tema:", tema);
-        if (tema) {
-            loadTest(tema);
+        if (tema && testNumber) {
+            loadTest(tema, testNumber);
         } else {
-            console.error("No tema specified in the URL parameters.");
+            console.error("No tema or test number specified in the URL parameters.");
         }
-    } else {
-        console.error("Unknown page.");
     }
 });
+
+let usedQuestions = {}; // Variable para mantener un registro de las preguntas utilizadas
 
 function loadMenu() {
     console.log("Executing loadMenu");
@@ -38,7 +37,7 @@ function loadMenu() {
         themeElement.innerHTML = `<h2>${theme.title}</h2>`;
         for (let test = 1; test <= 10; test++) {
             const testElement = document.createElement('a');
-            testElement.href = `test.html?tema=${theme.id}`;
+            testElement.href = `test.html?tema=${theme.id}&test=${test}`;
             testElement.textContent = `Test ${test}`;
             testElement.style.display = 'block';
             themeElement.appendChild(testElement);
@@ -49,7 +48,7 @@ function loadMenu() {
     console.log("Menu loaded");
 }
 
-function loadTest(tema) {
+function loadTest(tema, testNumber) {
     console.log("Fetching test for tema:", tema);
     fetch(`tests/${tema}.json`)
         .then(response => {
@@ -60,9 +59,11 @@ function loadTest(tema) {
             return response.json();
         })
         .then(questions => {
-            console.log("Questions loaded:", questions);
-            const selectedQuestions = selectRandomQuestions(questions, 10);
-            console.log("Selected questions:", selectedQuestions);
+            if (!usedQuestions[tema]) {
+                usedQuestions[tema] = [];
+            }
+            const selectedQuestions = selectRandomQuestions(questions, 10, tema);
+            console.log("Selected questions for test " + testNumber + ":", selectedQuestions);
             displayQuestions(selectedQuestions);
         })
         .catch(error => {
@@ -71,9 +72,21 @@ function loadTest(tema) {
         });
 }
 
-function selectRandomQuestions(questions, num) {
-    const shuffled = questions.sort(() => 0.5 - Math.random());
-    return shuffled.slice(0, num);
+function selectRandomQuestions(questions, num, tema) {
+    const availableQuestions = questions.filter(q => !usedQuestions[tema].includes(q.question));
+    const selectedQuestions = [];
+
+    for (let i = 0; i < num; i++) {
+        if (availableQuestions.length === 0) {
+            break;
+        }
+        const index = Math.floor(Math.random() * availableQuestions.length);
+        const question = availableQuestions.splice(index, 1)[0];
+        selectedQuestions.push(question);
+        usedQuestions[tema].push(question.question);
+    }
+
+    return selectedQuestions;
 }
 
 function displayQuestions(questions) {

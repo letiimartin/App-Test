@@ -148,5 +148,207 @@
         "question": "¿Qué orgánulo es responsable de modificar químicamente las moléculas sintetizadas en el retículo endoplasmático?",
         "options": ["Aparato de Golgi", "Lisosomas", "Peroxisomas", "Núcleo"],
         "answer": 0
+    },
+    {
+        "question": "¿Qué científico contribuyó a la caída de la teoría de la generación espontánea?",
+        "options": ["Louis Pasteur", "Antoni van Leeuwenhoek", "Ernst Haeckel", "Karl von Linneo"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de los siguientes reinos incluye organismos que pueden ser unicelulares o coloniales y tienen material genético delimitado por una membrana?",
+        "options": ["Moneras", "Protistas", "Hongos", "Metafitas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué orgánulo celular se encarga de la digestión intracelular?",
+        "options": ["Lisosomas", "Mitocondrias", "Aparato de Golgi", "Retículo endoplasmático"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la función principal del retículo endoplasmático rugoso?",
+        "options": ["Síntesis de proteínas", "Síntesis de lípidos", "Detoxificación de sustancias", "Almacenamiento de calcio"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué científico clasificó a los organismos en cinco reinos incluyendo moneras, protistas, plantas, hongos y animales?",
+        "options": ["Herbert F. Copeland", "Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura celular es característica de las células vegetales y proporciona soporte y protección?",
+        "options": ["Membrana plasmática", "Pared celular", "Citoesqueleto", "Cloroplastos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la principal diferencia entre los viroides y los priones?",
+        "options": ["Los viroides afectan a plantas y los priones a animales", "Los viroides tienen cápside y los priones no", "Los viroides tienen material genético y los priones no", "Los viroides se replican en el citoplasma y los priones en el núcleo"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué científico propuso que todas las plantas están formadas por células?",
+        "options": ["Theodor Schwann", "Matthias Schleiden", "Rudolf Virchow", "Louis Pasteur"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué organelo celular está involucrado en la síntesis de lípidos y detoxificación de sustancias?",
+        "options": ["Retículo endoplasmático liso", "Retículo endoplasmático rugoso", "Aparato de Golgi", "Mitocondrias"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de los siguientes no es un componente de la teoría celular?",
+        "options": ["Unidad estructural", "Unidad genética", "Unidad fotosintética", "Unidad fisiológica"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué científico introdujo el término 'procariótico'?",
+        "options": ["Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton", "Herbert F. Copeland"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes orgánulos está involucrado en la fotosíntesis?",
+        "options": ["Mitocondrias", "Cloroplastos", "Lisosomas", "Aparato de Golgi"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura celular regula el movimiento de sustancias entre el interior y el exterior de la célula?",
+        "options": ["Membrana plasmática", "Pared celular", "Citoplasma", "Núcleo"],
+        "answer": 0
+    },
+    {
+        "question": "¿Quién es conocido como el 'padre de la microbiología'?",
+        "options": ["Robert Hooke", "Antoni van Leeuwenhoek", "Galileo Galilei", "Zacarías Janssen"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué organelo celular contiene enzimas que degradan peróxido de hidrógeno?",
+        "options": ["Lisosomas", "Mitocondrias", "Peroxisomas", "Cloroplastos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué científico clasificó a los organismos en cuatro reinos: moneras, protistas, metafitas y metazoos?",
+        "options": ["Herbert F. Copeland", "Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la función principal de los ribosomas en la célula?",
+        "options": ["Síntesis de proteínas", "Síntesis de lípidos", "Producción de energía", "Almacenamiento de calcio"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué orgánulo está rodeado por una doble membrana y contiene material genético?",
+        "options": ["Núcleo", "Lisosomas", "Retículo endoplasmático", "Aparato de Golgi"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué científico describió la existencia de estructuras elementales repetidas en la corteza del alcornoque a las que denominó 'células'?",
+        "options": ["Robert Hooke", "Antoni van Leeuwenhoek", "Galileo Galilei", "Zacarías Janssen"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de los siguientes no es un reino propuesto por Carl R. Woese en su clasificación de 1977?",
+        "options": ["Eubacterias", "Arqueobacterias", "Protistas", "Virus"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué científico clasificó a los organismos en seis reinos en 1977?",
+        "options": ["Herbert F. Copeland", "Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes orgánulos es responsable de la síntesis de proteínas?",
+        "options": ["Mitocondrias", "Ribosomas", "Peroxisomas", "Cloroplastos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura celular está formada por una bicapa lipídica y proteínas?",
+        "options": ["Núcleo", "Retículo endoplasmático", "Membrana plasmática", "Pared celular"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué científico fabricó su propio microscopio y observó diferentes organismos en su libro Micrographia?",
+        "options": ["Robert Hooke", "Antoni van Leeuwenhoek", "Galileo Galilei", "Zacarías Janssen"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué organelo celular es conocido como la 'central energética' de la célula?",
+        "options": ["Cloroplastos", "Mitocondrias", "Lisosomas", "Aparato de Golgi"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué científico clasificó a los organismos en cinco reinos en 1969?",
+        "options": ["Herbert F. Copeland", "Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la función principal de los lisosomas?",
+        "options": ["Síntesis de proteínas", "Síntesis de lípidos", "Digestión intracelular", "Almacenamiento de calcio"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué orgánulo está involucrado en la síntesis de lípidos y detoxificación de sustancias?",
+        "options": ["Retículo endoplasmático liso", "Retículo endoplasmático rugoso", "Aparato de Golgi", "Mitocondrias"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué científico introdujo el término 'eucariótico'?",
+        "options": ["Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton", "Herbert F. Copeland"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes no es un componente de la teoría celular?",
+        "options": ["Unidad estructural", "Unidad genética", "Unidad fotosintética", "Unidad fisiológica"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué científico clasificó a los organismos en seis reinos en 1977?",
+        "options": ["Herbert F. Copeland", "Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes orgánulos es responsable de la síntesis de proteínas?",
+        "options": ["Mitocondrias", "Ribosomas", "Peroxisomas", "Cloroplastos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura celular está formada por una bicapa lipídica y proteínas?",
+        "options": ["Núcleo", "Retículo endoplasmático", "Membrana plasmática", "Pared celular"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué científico fabricó su propio microscopio y observó diferentes organismos en su libro Micrographia?",
+        "options": ["Robert Hooke", "Antoni van Leeuwenhoek", "Galileo Galilei", "Zacarías Janssen"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué organelo celular es conocido como la 'central energética' de la célula?",
+        "options": ["Cloroplastos", "Mitocondrias", "Lisosomas", "Aparato de Golgi"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué científico clasificó a los organismos en cinco reinos en 1969?",
+        "options": ["Herbert F. Copeland", "Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la función principal de los lisosomas?",
+        "options": ["Síntesis de proteínas", "Síntesis de lípidos", "Digestión intracelular", "Almacenamiento de calcio"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué orgánulo está involucrado en la síntesis de lípidos y detoxificación de sustancias?",
+        "options": ["Retículo endoplasmático liso", "Retículo endoplasmático rugoso", "Aparato de Golgi", "Mitocondrias"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué científico introdujo el término 'eucariótico'?",
+        "options": ["Robert H. Whittaker", "Carl R. Woese", "Edouard Chatton", "Herbert F. Copeland"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes no es un componente de la teoría celular?",
+        "options": ["Unidad estructural", "Unidad genética", "Unidad fotosintética", "Unidad fisiológica"],
+        "answer": 2
     }
+    
+    
 ]
