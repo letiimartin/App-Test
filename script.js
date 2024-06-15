@@ -1,16 +1,20 @@
 document.addEventListener('DOMContentLoaded', function() {
     console.log("DOMContentLoaded event fired");
-    if (window.location.pathname.includes('menu.html')) {
+    if (window.location.pathname.endsWith('/index.html') || window.location.pathname === '/App-Test/') {
         console.log("Loading menu");
         loadMenu();
-    } else if (window.location.pathname.includes('index.html')) {
+    } else if (window.location.pathname.endsWith('test.html')) {
         console.log("Loading test");
         const urlParams = new URLSearchParams(window.location.search);
         const testFile = urlParams.get('test');
         console.log("Test file:", testFile);
         if (testFile) {
             loadTest(testFile);
+        } else {
+            console.error("No test file specified in the URL parameters.");
         }
+    } else {
+        console.error("Unknown page.");
     }
 });
 
@@ -22,7 +26,7 @@ function loadMenu() {
     themeElement.innerHTML = `<h2>TEMA 1: La biología celular como disciplina</h2>`;
     for (let test = 1; test <= 10; test++) {
         const testElement = document.createElement('a');
-        testElement.href = `index.html?test=tests/tema1_test${test}.json`;
+        testElement.href = `test.html?test=tests/tema1_test${test}.json`;
         testElement.textContent = `Test ${test}`;
         testElement.style.display = 'block';
         themeElement.appendChild(testElement);

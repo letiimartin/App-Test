@@ -1,0 +1,52 @@
+[
+    {
+        "question": "1. ¿Cuál de las siguientes técnicas se utiliza para obtener una muestra de tejido sólido sin cortarlo?",
+        "options": ["Frotis", "Impronta", "Homogeneización", "Transiluminación"],
+        "answer": 1
+    },
+    {
+        "question": "2. ¿Qué técnica permite la separación de componentes celulares mediante la aplicación de fuerzas centrífugas?",
+        "options": ["Homogeneización", "Ultracentrifugación", "Microtomo de congelación", "Microscopía de contraste de fases"],
+        "answer": 1
+    },
+    {
+        "question": "3. ¿Cuál es la principal diferencia entre la técnica de homogeneización y la de ultracentrifugación?",
+        "options": ["La homogeneización corta secciones de tejido congelado y la ultracentrifugación separa componentes celulares", "La homogeneización rompe células y la ultracentrifugación separa sus componentes", "La homogeneización es para células vivas y la ultracentrifugación para células fijadas", "La homogeneización utiliza líquidos y la ultracentrifugación usa láser"],
+        "answer": 2
+    },
+    {
+        "question": "4. La técnica de transiluminación se emplea principalmente para:",
+        "options": ["Estudiar la circulación en pequeños vasos en vivo", "Visualizar órganos internos mediante transparencia", "Detectar elementos radiactivos sin sacrificar al organismo", "Cortar rebanadas de material congelado"],
+        "answer": 1
+    },
+    {
+        "question": "5. ¿Cuál de los siguientes instrumentos se utiliza para observar la estructura ultraestructural de las células?",
+        "options": ["Microscopio de transmisión convencional (TEM)", "Microscopio de barrido convencional (SEM)", "Microscopio confocal", "Microscopio de luz polarizada"],
+        "answer": 0
+    },
+    {
+        "question": "6. La técnica de maceración en biología celular se usa para:",
+        "options": ["Separar y disociar células mediante la digestión de componentes extracelulares", "Ablandar tejido sumergiéndolo en un líquido para separarlo en células individuales", "Cortar secciones de tejido fijado con parafina", "Visualizar estructuras tridimensionales con un rayo láser"],
+        "answer": 1
+    },
+    {
+        "question": "7. ¿Qué tipo de microscopio se utiliza para observar células vivas sin necesidad de teñirlas?",
+        "options": ["Microscopio de fluorescencia", "Microscopio de luz polarizada", "Microscopio de contraste de fases", "Microscopio confocal"],
+        "answer": 2
+    },
+    {
+        "question": "8. ¿Cuál es el objetivo principal de la técnica del frotis en biología celular?",
+        "options": ["Cortar secciones finas de material congelado", "Separar componentes celulares por ultracentrifugación", "Extender una muestra de fluido corporal sobre un portaobjetos para su análisis", "Visualizar estructuras internas mediante transiluminación"],
+        "answer": 2
+    },
+    {
+        "question": "9. ¿Qué característica es esencial en la técnica de cámaras transparentes?",
+        "options": ["La utilización de un rayo láser para iluminación", "La observación de la circulación sanguínea en vivo", "La obtención de secciones finas mediante ultracentrifugación", "La extensión de una muestra de fluido corporal"],
+        "answer": 1
+    },
+    {
+        "question": "10. La técnica de digestión enzimática en biología celular se refiere a:",
+        "options": ["Cortar secciones de material congelado", "Separar células mediante la digestión de componentes extracelulares", "Utilizar ultrasonidos para disociar células", "Extender una muestra de fluido corporal sobre un portaobjetos"],
+        "answer": 1
+    }
+]
