@@ -1,0 +1,503 @@
+[
+    {
+        "question": "¿Qué fenómeno describe la pérdida de la conformación tridimensional de una proteína debido a situaciones de estrés como el calor?",
+        "options": ["Renaturación", "Translación", "Desnaturalización", "Aminación"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteínas ayudan a la célula a conservar o degradar las proteínas desnaturalizadas?",
+        "options": ["Histonas", "Chaperonas", "Enzimas", "Ribosomas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es el primer paso en la síntesis de proteínas a partir del ADN?",
+        "options": ["Traducción", "Transcripción", "Modificación postraducción", "Plegamiento de proteínas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Dónde ocurre la transcripción del ADN a ARN?",
+        "options": ["Citoplasma", "Mitocondria", "Núcleo", "Retículo endoplasmático"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proceso sigue a la transcripción en la síntesis de proteínas?",
+        "options": ["Modificación postraducción", "Plegamiento de proteínas", "Traducción", "Elongación"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteínas ayudan en el plegamiento correcto de otras proteínas?",
+        "options": ["Ribosomas", "Chaperonas", "Proteasas", "Transloconas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de modificación puede ocurrir en una proteína después de la traducción?",
+        "options": ["Transcripción", "Elongación", "Fosforilación", "Translocación"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de proteínas se agregan en enfermedades neurodegenerativas como el Alzheimer?",
+        "options": ["Amiloide-B", "Insulina", "Cristalinas", "Transtiretina"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué chaperona ayuda a las proteínas a evitar la desnaturalización y la agregación?",
+        "options": ["HSP70", "HSP90", "GroEL", "Calnexina"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué estructura proteica se caracteriza por un cilindro central con proteasas en su interior?",
+        "options": ["Ribosoma", "Proteasoma", "Chaperonina", "Lisósoma"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso marca a una proteína para su degradación en el proteasoma?",
+        "options": ["Fosforilación", "Ubiquitinación", "Acetilación", "Glicosilación"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué enzima une la ubiquitina a las proteínas destinadas a la degradación?",
+        "options": ["Ligasa de ubiquitina", "Proteasa", "Kinasa", "Fosfatasa"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué se libera al final del proceso de degradación de una proteína en el proteasoma?",
+        "options": ["ARNm", "Péptidos", "DNA", "Ribosomas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína chaperona forma un complejo de cámara para ayudar en el plegamiento de proteínas?",
+        "options": ["HSP60", "HSP70", "GroEL", "HSP90"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué enfermedad está asociada con la agregación de la proteína a-sinucleína?",
+        "options": ["Alzheimer", "Parkinson", "Huntington", "Esclerosis lateral amiotrófica"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína está mal plegada en la enfermedad de Huntington?",
+        "options": ["Amiloide-B", "a-sinucleína", "Huntingtina", "Superóxido dismutasa"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura es responsable de la síntesis de proteínas en la célula?",
+        "options": ["Núcleo", "Ribosomas", "Mitocondrias", "Proteasomas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de estrés puede inducir la producción de proteínas de choque térmico (HSP)?",
+        "options": ["Calor", "Frío", "Deshidratación", "Todas son correctas"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué proteína ayuda en la translocación de proteínas al retículo endoplasmático?",
+        "options": ["Sec61", "BiP", "HSP70", "Calnexina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica se usa para separar proteínas basándose en su tamaño y carga?",
+        "options": ["Electroforesis", "Centrifugación", "Espectrometría de masas", "Microscopía electrónica"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué componente no está involucrado en el proceso de ubiquitinación?",
+        "options": ["Ubiquitina", "Ligasa", "Proteasoma", "Ribosoma"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué estructura celular contiene proteasas para la degradación de proteínas?",
+        "options": ["Ribosoma", "Lisósoma", "Mitocondria", "Peroxisoma"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de proteínas se encuentran en el citosol y ayudan en el plegamiento de otras proteínas?",
+        "options": ["Histonas", "Ribosomas", "Chaperonas", "Proteasas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué enfermedad neurodegenerativa está asociada con la acumulación de proteína priónica?",
+        "options": ["Alzheimer", "Parkinson", "Huntington", "Encefalopatía espongiforme transmisible"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué proceso implica la eliminación de las proteínas dañadas o innecesarias de una célula?",
+        "options": ["Traducción", "Transcripción", "Proteólisis", "Reparación del ADN"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué sistema utiliza la ubiquitina para marcar proteínas para su degradación?",
+        "options": ["Sistema de lisosomas", "Sistema de proteasomas", "Sistema de ribosomas", "Sistema de chaperonas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína es comúnmente utilizada como marcador de proteínas mal plegadas en estudios de laboratorio?",
+        "options": ["HSP70", "HSP90", "GFP", "BSA"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de proteínas son las HSP?",
+        "options": ["Proteínas estructurales", "Enzimas", "Chaperonas", "Receptores"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína chaperona actúa en el citosol y el retículo endoplasmático?",
+        "options": ["HSP60", "BiP", "HSP70", "Calreticulina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué molécula pequeña se une a las proteínas destinadas a la degradación en el proteasoma?",
+        "options": ["ATP", "GTP", "Ubiquitina", "ADP"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de estrés puede inducir la producción de chaperonas?",
+        "options": ["Calor", "Frío", "Deshidratación", "Todas son correctas"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué enzima es responsable de la unión de ubiquitina a las proteínas?",
+        "options": ["Ubiquitinasa", "Ligasa de ubiquitina", "Proteasa", "Chaperona"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína se agrega en las cataratas?",
+        "options": ["Amiloide-B", "Insulina", "Cristalinas", "Transtiretina"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué chaperona ayuda al plegamiento de proteínas recién sintetizadas en el citoplasma?",
+        "options": ["BiP", "GroEL", "HSP70", "HSP90"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué es la ubiquitinación?",
+        "options": ["Un proceso de síntesis proteica", "Un proceso de degradación proteica", "Un proceso de replicación de ADN", "Un proceso de transcripción de ARN"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína está involucrada en la enfermedad de Alzheimer?",
+        "options": ["Amiloide-B", "a-sinucleína", "Huntingtina", "Superóxido dismutasa"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de chaperona forma una cámara de aislamiento para el plegamiento de proteínas?",
+        "options": ["HSP60", "HSP70", "GroEL", "HSP90"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura celular es responsable de la degradación de proteínas a través de la ubiquitinación?",
+        "options": ["Ribosoma", "Lisósoma", "Mitocondria", "Proteasoma"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué proteína es responsable de la agregación en la enfermedad de Parkinson?",
+        "options": ["Amiloide-B", "a-sinucleína", "Huntingtina", "Superóxido dismutasa"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína marca a otras proteínas para su degradación?",
+        "options": ["Ubiquitina", "Chaperona", "Proteasa", "Enzima"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué proteína se encuentra mal plegada en la esclerosis lateral amiotrófica?",
+        "options": ["Amiloide-B", "a-sinucleína", "Huntingtina", "Superóxido dismutasa"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de proteínas ayudan a estabilizar otras proteínas desnaturalizadas?",
+        "options": ["Histonas", "Chaperonas", "Proteasas", "Enzimas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura es conocida como la 'cámara de aislamiento' para el plegamiento de proteínas?",
+        "options": ["Ribosoma", "Lisósoma", "GroEL", "Proteasoma"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína está involucrada en la degradación de proteínas mal plegadas en la célula?",
+        "options": ["HSP70", "Ubiquitina", "Proteasa", "Chaperona"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica se usa para analizar la estructura tridimensional de proteínas?",
+        "options": ["Electroforesis", "Centrifugación", "Cristalografía de rayos X", "Microscopía electrónica"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína es responsable de la agregación en la diabetes tipo 2?",
+        "options": ["Amiloide-B", "Insulina", "Amilina", "Transtiretina"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué chaperona está involucrada en la síntesis de proteínas en el citosol?",
+        "options": ["BiP", "GroEL", "HSP70", "HSP90"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína se agrega en las enfermedades neurodegenerativas como el Parkinson?",
+        "options": ["Amiloide-B", "a-sinucleína", "Huntingtina", "Superóxido dismutasa"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso implica la adición de una pequeña proteína a otras proteínas para su degradación?",
+        "options": ["Ubiquitinación", "Fosforilación", "Acetilación", "Glicosilación"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué estructura celular degrada proteínas mediante la ubiquitinación?",
+        "options": ["Ribosoma", "Lisósoma", "Mitocondria", "Proteasoma"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué proteína chaperona ayuda en el plegamiento de proteínas en el retículo endoplasmático?",
+        "options": ["BiP", "GroEL", "HSP70", "Calreticulina"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué proteína chaperona se encuentra en el citosol y el retículo endoplasmático?",
+        "options": ["HSP60", "BiP", "HSP70", "Calreticulina"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se utiliza para separar proteínas basándose en su tamaño y carga?",
+        "options": ["Electroforesis", "Centrifugación", "Espectrometría de masas", "Microscopía electrónica"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué enfermedad está asociada con la agregación de proteína a-sinucleína?",
+        "options": ["Alzheimer", "Parkinson", "Huntington", "Esclerosis lateral amiotrófica"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína está mal plegada en la enfermedad de Huntington?",
+        "options": ["Amiloide-B", "a-sinucleína", "Huntingtina", "Superóxido dismutasa"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína chaperona actúa en el citosol y el retículo endoplasmático?",
+        "options": ["HSP60", "BiP", "HSP70", "Calreticulina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína se agrega en las cataratas?",
+        "options": ["Amiloide-B", "Insulina", "Cristalinas", "Transtiretina"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué chaperona ayuda al plegamiento de proteínas recién sintetizadas en el citoplasma?",
+        "options": ["BiP", "GroEL", "HSP70", "HSP90"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proceso implica la eliminación de las proteínas dañadas o innecesarias de una célula?",
+        "options": ["Traducción", "Transcripción", "Proteólisis", "Reparación del ADN"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué chaperona forma un complejo de cámara para ayudar en el plegamiento de proteínas?",
+        "options": ["HSP60", "HSP70", "GroEL", "HSP90"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura celular contiene proteasas para la degradación de proteínas?",
+        "options": ["Ribosoma", "Lisósoma", "Mitocondria", "Peroxisoma"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína se agrega en las enfermedades neurodegenerativas como el Alzheimer?",
+        "options": ["Amiloide-B", "a-sinucleína", "Huntingtina", "Superóxido dismutasa"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de proteínas son las HSP?",
+        "options": ["Proteínas estructurales", "Enzimas", "Chaperonas", "Receptores"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína chaperona forma una cámara de aislamiento para el plegamiento de proteínas?",
+        "options": ["HSP60", "HSP70", "GroEL", "HSP90"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura celular es responsable de la degradación de proteínas a través de la ubiquitinación?",
+        "options": ["Ribosoma", "Lisósoma", "Mitocondria", "Proteasoma"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué proteína marca a otras proteínas para su degradación?",
+        "options": ["Ubiquitina", "Chaperona", "Proteasa", "Enzima"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué proteína chaperona está involucrada en la síntesis de proteínas en el citosol?",
+        "options": ["BiP", "GroEL", "HSP70", "HSP90"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura es conocida como la 'cámara de aislamiento' para el plegamiento de proteínas?",
+        "options": ["Ribosoma", "Lisósoma", "GroEL", "Proteasoma"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se usa para analizar la estructura tridimensional de proteínas?",
+        "options": ["Electroforesis", "Centrifugación", "Cristalografía de rayos X", "Microscopía electrónica"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína se agrega en las enfermedades neurodegenerativas como el Parkinson?",
+        "options": ["Amiloide-B", "a-sinucleína", "Huntingtina", "Superóxido dismutasa"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína chaperona ayuda en el plegamiento de proteínas en el retículo endoplasmático?",
+        "options": ["BiP", "GroEL", "HSP70", "Calreticulina"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué estructura celular degrada proteínas mediante la ubiquitinación?",
+        "options": ["Ribosoma", "Lisósoma", "Mitocondria", "Proteasoma"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de chaperona forma una cámara de aislamiento para el plegamiento de proteínas?",
+        "options": ["HSP60", "HSP70", "GroEL", "HSP90"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína está involucrada en la degradación de proteínas mal plegadas en la célula?",
+        "options": ["HSP70", "Ubiquitina", "Proteasa", "Chaperona"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué enfermedad está asociada con la agregación de proteína priónica?",
+        "options": ["Alzheimer", "Parkinson", "Huntington", "Encefalopatía espongiforme transmisible"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de proteínas ayudan a estabilizar otras proteínas desnaturalizadas?",
+        "options": ["Histonas", "Chaperonas", "Proteasas", "Enzimas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué molécula pequeña se une a las proteínas destinadas a la degradación en el proteasoma?",
+        "options": ["ATP", "GTP", "Ubiquitina", "ADP"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína es responsable de la agregación en la enfermedad de Parkinson?",
+        "options": ["Amiloide-B", "a-sinucleína", "Huntingtina", "Superóxido dismutasa"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína está mal plegada en la enfermedad de Huntington?",
+        "options": ["Amiloide-B", "a-sinucleína", "Huntingtina", "Superóxido dismutasa"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué es la ubiquitinación?",
+        "options": ["Un proceso de síntesis proteica", "Un proceso de degradación proteica", "Un proceso de replicación de ADN", "Un proceso de transcripción de ARN"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura celular contiene proteasas para la degradación de proteínas?",
+        "options": ["Ribosoma", "Lisósoma", "Mitocondria", "Peroxisoma"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura es responsable de la síntesis de proteínas en la célula?",
+        "options": ["Núcleo", "Ribosomas", "Mitocondrias", "Proteasomas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué enzima es responsable de la unión de ubiquitina a las proteínas?",
+        "options": ["Ubiquitinasa", "Ligasa de ubiquitina", "Proteasa", "Chaperona"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura celular degrada proteínas mediante la ubiquitinación?",
+        "options": ["Ribosoma", "Lisósoma", "Mitocondria", "Proteasoma"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de estrés puede inducir la producción de chaperonas?",
+        "options": ["Calor", "Frío", "Deshidratación", "Todas son correctas"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué proteína chaperona se encuentra en el citosol y el retículo endoplasmático?",
+        "options": ["HSP60", "BiP", "HSP70", "Calreticulina"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué enfermedad neurodegenerativa está asociada con la acumulación de proteína priónica?",
+        "options": ["Alzheimer", "Parkinson", "Huntington", "Encefalopatía espongiforme transmisible"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué técnica se utiliza para separar proteínas basándose en su tamaño y carga?",
+        "options": ["Electroforesis", "Centrifugación", "Espectrometría de masas", "Microscopía electrónica"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué proteína ayuda a las proteínas a evitar la desnaturalización y la agregación?",
+        "options": ["HSP70", "HSP90", "GroEL", "Calnexina"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué enfermedad está asociada con la agregación de la proteína a-sinucleína?",
+        "options": ["Alzheimer", "Parkinson", "Huntington", "Esclerosis lateral amiotrófica"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de proteínas son las chaperonas?",
+        "options": ["Enzimas", "Receptores", "Proteínas de choque térmico", "Transportadores"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de estrés puede inducir la producción de proteínas de choque térmico (HSP)?",
+        "options": ["Calor", "Frío", "Deshidratación", "Todas son correctas"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué chaperona forma un complejo de cámara para ayudar en el plegamiento de proteínas?",
+        "options": ["HSP60", "HSP70", "GroEL", "HSP90"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proceso marca a una proteína para su degradación en el proteasoma?",
+        "options": ["Fosforilación", "Ubiquitinación", "Acetilación", "Glicosilación"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué chaperona ayuda al plegamiento de proteínas recién sintetizadas en el citoplasma?",
+        "options": ["BiP", "GroEL", "HSP70", "HSP90"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué enfermedad está asociada con la agregación de proteína amiloide-B?",
+        "options": ["Alzheimer", "Parkinson", "Huntington", "Esclerosis lateral amiotrófica"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué estructura proteica es responsable de la degradación de proteínas mal plegadas?",
+        "options": ["Ribosoma", "Lisósoma", "Proteasoma", "Chaperona"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína chaperona actúa en el citosol y el retículo endoplasmático?",
+        "options": ["HSP60", "BiP", "HSP70", "Calreticulina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína está mal plegada en la enfermedad de Huntington?",
+        "options": ["Amiloide-B", "a-sinucleína", "Huntingtina", "Superóxido dismutasa"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura es responsable de la síntesis de proteínas en la célula?",
+        "options": ["Núcleo", "Ribosomas", "Mitocondrias", "Proteasomas"],
+        "answer": 1
+    }
+]
+    

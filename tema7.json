@@ -1,0 +1,502 @@
+[
+    {
+        "question": "¿Cuál de las siguientes proteínas es una proteína motora asociada a los microtúbulos?",
+        "options": ["Actina", "Miosina", "Quinesina", "Filamina"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué componente del citoesqueleto está compuesto por actina?",
+        "options": ["Microtúbulos", "Filamentos intermedios", "Microfilamentos", "Centríolos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la función principal de los filamentos intermedios?",
+        "options": ["Movimiento celular", "Soporte mecánico", "Transporte intracelular", "División celular"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína es responsable de la polimerización de los microtúbulos?",
+        "options": ["Actina", "Tubulina", "Quinesina", "Miosina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Dónde se encuentran principalmente los filamentos de actina en una célula?",
+        "options": ["Núcleo", "Membrana plasmática", "Aparato de Golgi", "Mitocondria"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es el principal componente de los cilios y flagelos?",
+        "options": ["Actina", "Tubulina", "Quinesina", "Filamentos intermedios"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína forma parte de los filamentos intermedios en las células epiteliales?",
+        "options": ["Vimentina", "Desmina", "Queratina", "Neurofilamentos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal función de las quinesinas?",
+        "options": ["Transporte de vesículas", "Movimiento celular", "Soporte estructural", "División celular"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué proteína es esencial para la contracción muscular?",
+        "options": ["Actina", "Tubulina", "Quinesina", "Miosina"],
+        "answer": 3
+    },
+    {
+        "question": "¿Cuál de los siguientes componentes del citoesqueleto es el más rígido?",
+        "options": ["Microtúbulos", "Filamentos intermedios", "Microfilamentos", "Centríolos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué estructura está formada por microtúbulos en disposición de nueve tripletes?",
+        "options": ["Cilios", "Flagelos", "Centríolos", "Microfilamentos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína motora se mueve hacia el extremo más del microtúbulo?",
+        "options": ["Dineína", "Quinesina", "Miosina", "Actina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es el principal tipo de filamento que forma la lámina nuclear?",
+        "options": ["Microfilamentos", "Microtúbulos", "Filamentos intermedios", "Centríolos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la función de los filamentos de actina durante la citocinesis?",
+        "options": ["Formación del huso mitótico", "Desplazamiento de vesículas", "Formación del anillo contráctil", "Movimiento de cilios"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína es responsable de la estabilización de los microtúbulos?",
+        "options": ["Actina", "MAPs (Proteínas Asociadas a Microtúbulos)", "Quinesina", "Miosina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de los siguientes filamentos es más abundante en las células musculares?",
+        "options": ["Microfilamentos", "Microtúbulos", "Filamentos intermedios", "Centríolos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué proteína es responsable del movimiento de cilios y flagelos?",
+        "options": ["Dineína", "Quinesina", "Miosina", "Actina"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué componente del citoesqueleto es el más dinámico?",
+        "options": ["Microtúbulos", "Filamentos intermedios", "Microfilamentos", "Centríolos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la función principal de las dineínas?",
+        "options": ["Transporte de vesículas hacia el extremo más", "Transporte de vesículas hacia el extremo menos", "Movimiento celular", "Contracción muscular"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura se encuentra en el centrosoma y está compuesta por microtúbulos?",
+        "options": ["Cilios", "Flagelos", "Centríolos", "Microfilamentos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué filamento del citoesqueleto se asocia con la adhesión celular y la formación de contactos focales?",
+        "options": ["Microfilamentos", "Microtúbulos", "Filamentos intermedios", "Centríolos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de filamentos forman la estructura principal de los desmosomas?",
+        "options": ["Microfilamentos", "Microtúbulos", "Filamentos intermedios", "Centríolos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es el principal componente del huso mitótico durante la mitosis?",
+        "options": ["Microfilamentos", "Microtúbulos", "Filamentos intermedios", "Centríolos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína motora está implicada en el transporte retrógrado de vesículas?",
+        "options": ["Dineína", "Quinesina", "Miosina", "Actina"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de los siguientes filamentos es esencial para la división celular en las bacterias?",
+        "options": ["FtsZ", "MreB", "Actina", "Tubulina"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué proteína es responsable de la nucleación de los microtúbulos en el centrosoma?",
+        "options": ["Tubulina gamma", "Actina", "Quinesina", "Dineína"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la función de las proteínas MAPs en los microtúbulos?",
+        "options": ["Despolimerización de microtúbulos", "Polimerización de microfilamentos", "Estabilización y organización de microtúbulos", "Transporte de vesículas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína se une a los filamentos de actina para permitir la contracción muscular?",
+        "options": ["Dineína", "Quinesina", "Miosina", "Tubulina"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura citosólica contiene una red de filamentos de actina y proteínas accesorias?",
+        "options": ["Núcleo", "Corteza celular", "Centrosoma", "Mitocondria"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteínas forman los filamentos intermedios en las células musculares?",
+        "options": ["Vimentina", "Desmina", "Queratina", "Neurofilamentos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de los siguientes componentes del citoesqueleto es más resistente a la deformación?",
+        "options": ["Microfilamentos", "Microtúbulos", "Filamentos intermedios", "Centríolos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteínas motoras se desplazan a lo largo de los microtúbulos hacia el extremo positivo?",
+        "options": ["Dineínas", "Quinesinas", "Miosinas", "Actinas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura citosólica es responsable del transporte intracelular de vesículas y organelos?",
+        "options": ["Microfilamentos", "Microtúbulos", "Filamentos intermedios", "Centríolos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la función de las proteínas de anclaje en los filamentos de actina?",
+        "options": ["Despolimerización de actina", "Movimiento celular", "Unión a la membrana plasmática y otros componentes celulares", "Contracción muscular"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína es responsable de la estabilidad de los microtúbulos en los axones de las neuronas?",
+        "options": ["MAP2", "Tau", "Quinesina", "Dineína"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de las siguientes proteínas no es una proteína motora?",
+        "options": ["Quinesina", "Dineína", "Miosina", "Tubulina"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué filamento del citoesqueleto está implicado en el movimiento ameboide?",
+        "options": ["Microtúbulos", "Filamentos intermedios", "Microfilamentos", "Centríolos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de pseudópodos en las células ameboides?",
+        "options": ["Actina", "Tubulina", "Quinesina", "Dineína"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la función principal de las dineínas en los cilios y flagelos?",
+        "options": ["Estabilización de microtúbulos", "Movimiento de cilios y flagelos", "Transporte intracelular", "Polimerización de actina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué componente del citoesqueleto es crucial para la formación de las uniones celulares?",
+        "options": ["Microfilamentos", "Microtúbulos", "Filamentos intermedios", "Centríolos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína asociada a los microtúbulos es responsable de la polimerización de microtúbulos?",
+        "options": ["Actina", "Tubulina gamma", "Quinesina", "Dineína"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la función principal de las integrinas en las células?",
+        "options": ["Movimiento de vesículas", "Adhesión celular", "Transporte de organelos", "Polimerización de microtúbulos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína es responsable de la formación de redes de filamentos de actina en el cortex celular?",
+        "options": ["Actina", "Filamina", "Quinesina", "Dineína"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de filamento del citoesqueleto es fundamental para la formación de microvellosidades?",
+        "options": ["Microtúbulos", "Filamentos intermedios", "Microfilamentos", "Centríolos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína es responsable de la estabilización de los filamentos de actina en las microvellosidades?",
+        "options": ["Vimentina", "Desmina", "Queratina", "Fimbrina"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué componente del citoesqueleto es responsable de la formación de los cilios primarios?",
+        "options": ["Microfilamentos", "Microtúbulos", "Filamentos intermedios", "Centríolos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la función principal de las proteínas Tau en las neuronas?",
+        "options": ["Movimiento de vesículas", "Estabilización de microtúbulos", "Transporte de organelos", "Polimerización de actina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura está compuesta por 9 dobletes de microtúbulos y un par central de microtúbulos?",
+        "options": ["Cilios", "Flagelos", "Centríolos", "Microfilamentos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la principal función de las miosinas en las células no musculares?",
+        "options": ["Movimiento de vesículas", "Contracción muscular", "Movimiento de cilios", "Polimerización de actina"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de filamento del citoesqueleto es el más abundante en los axones neuronales?",
+        "options": ["Microtúbulos", "Filamentos intermedios", "Microfilamentos", "Centríolos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué proteína es responsable de la estabilización de los filamentos de actina en los sarcómeros musculares?",
+        "options": ["Vimentina", "Desmina", "Tropomiosina", "Queratina"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la función principal de los centrosomas en las células animales?",
+        "options": ["Movimiento de vesículas", "Organización de microtúbulos", "Contracción muscular", "Polimerización de actina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura citosólica es esencial para el transporte intracelular y la localización de orgánulos?",
+        "options": ["Microtúbulos", "Filamentos intermedios", "Microfilamentos", "Centríolos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la principal función de los filamentos de actina en los eritrocitos?",
+        "options": ["Movimiento de vesículas", "Mantenimiento de la forma celular", "Contracción muscular", "Polimerización de microtúbulos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de filamento del citoesqueleto es crucial para la formación de las uniones adherentes?",
+        "options": ["Microfilamentos", "Microtúbulos", "Filamentos intermedios", "Centríolos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué proteína es responsable de la unión de los filamentos de actina a la membrana plasmática en las células musculares?",
+        "options": ["Desmina", "Queratina", "Distrofina", "Vimentina"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal función de las proteínas motoras en el transporte intracelular?",
+        "options": ["Despolimerización de microtúbulos", "Movimiento de vesículas y orgánulos a lo largo de los microtúbulos", "Polimerización de actina", "Contracción muscular"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de filamento del citoesqueleto es responsable de la resistencia mecánica de las células epiteliales?",
+        "options": ["Microfilamentos", "Microtúbulos", "Filamentos intermedios", "Centríolos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la función principal de las proteínas accesorias en los filamentos de actina?",
+        "options": ["Despolimerización de actina", "Movimiento celular", "Unión a la membrana plasmática y otros componentes celulares", "Contracción muscular"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína es responsable de la estabilización de los microtúbulos en las dendritas neuronales?",
+        "options": ["MAP2", "Tau", "Quinesina", "Dineína"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué estructura citosólica está formada por microtúbulos y es esencial para la división celular?",
+        "options": ["Cilios", "Flagelos", "Centríolos", "Microfilamentos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal función de las proteínas motoras en los cilios y flagelos?",
+        "options": ["Estabilización de microtúbulos", "Movimiento de cilios y flagelos", "Transporte intracelular", "Polimerización de actina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína asociada a los microtúbulos es responsable de la organización de los microtúbulos en el centrosoma?",
+        "options": ["Actina", "Tubulina gamma", "Quinesina", "Dineína"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la principal función de las integrinas en las células musculares?",
+        "options": ["Movimiento de vesículas", "Adhesión celular y transmisión de señales", "Transporte de organelos", "Polimerización de microtúbulos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína es responsable de la formación de haces de filamentos de actina en las microvellosidades?",
+        "options": ["Actina", "Filamina", "Fimbrina", "Dineína"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de filamento del citoesqueleto es fundamental para la formación de los cilios y flagelos?",
+        "options": ["Microfilamentos", "Microtúbulos", "Filamentos intermedios", "Centríolos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la función principal de las proteínas Tau en los axones neuronales?",
+        "options": ["Movimiento de vesículas", "Estabilización de microtúbulos", "Transporte de organelos", "Polimerización de actina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura citosólica está compuesta por 9 dobletes de microtúbulos y un par central de microtúbulos?",
+        "options": ["Cilios", "Flagelos", "Centríolos", "Microfilamentos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la principal función de las miosinas en las células musculares?",
+        "options": ["Movimiento de vesículas", "Contracción muscular", "Movimiento de cilios", "Polimerización de actina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de filamento del citoesqueleto es el más abundante en los axones neuronales?",
+        "options": ["Microtúbulos", "Filamentos intermedios", "Microfilamentos", "Centríolos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué proteína es responsable de la estabilización de los filamentos de actina en los sarcómeros musculares?",
+        "options": ["Vimentina", "Desmina", "Tropomiosina", "Queratina"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la función principal de los centrosomas en las células animales?",
+        "options": ["Movimiento de vesículas", "Organización de microtúbulos", "Contracción muscular", "Polimerización de actina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura citosólica es esencial para el transporte intracelular y la localización de orgánulos?",
+        "options": ["Microtúbulos", "Filamentos intermedios", "Microfilamentos", "Centríolos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la principal función de los filamentos de actina en los eritrocitos?",
+        "options": ["Movimiento de vesículas", "Mantenimiento de la forma celular", "Contracción muscular", "Polimerización de microtúbulos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de filamento del citoesqueleto es crucial para la formación de las uniones adherentes?",
+        "options": ["Microfilamentos", "Microtúbulos", "Filamentos intermedios", "Centríolos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué proteína es responsable de la unión de los filamentos de actina a la membrana plasmática en las células musculares?",
+        "options": ["Desmina", "Queratina", "Distrofina", "Vimentina"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal función de las proteínas motoras en el transporte intracelular?",
+        "options": ["Despolimerización de microtúbulos", "Movimiento de vesículas y orgánulos a lo largo de los microtúbulos", "Polimerización de actina", "Contracción muscular"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de filamento del citoesqueleto es responsable de la resistencia mecánica de las células epiteliales?",
+        "options": ["Microfilamentos", "Microtúbulos", "Filamentos intermedios", "Centríolos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la función principal de las proteínas accesorias en los filamentos de actina?",
+        "options": ["Despolimerización de actina", "Movimiento celular", "Unión a la membrana plasmática y otros componentes celulares", "Contracción muscular"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína es responsable de la estabilización de los microtúbulos en las dendritas neuronales?",
+        "options": ["MAP2", "Tau", "Quinesina", "Dineína"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué estructura citosólica está formada por microtúbulos y es esencial para la división celular?",
+        "options": ["Cilios", "Flagelos", "Centríolos", "Microfilamentos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal función de las proteínas motoras en los cilios y flagelos?",
+        "options": ["Estabilización de microtúbulos", "Movimiento de cilios y flagelos", "Transporte intracelular", "Polimerización de actina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína asociada a los microtúbulos es responsable de la organización de los microtúbulos en el centrosoma?",
+        "options": ["Actina", "Tubulina gamma", "Quinesina", "Dineína"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la principal función de las integrinas en las células musculares?",
+        "options": ["Movimiento de vesículas", "Adhesión celular y transmisión de señales", "Transporte de organelos", "Polimerización de microtúbulos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína es responsable de la formación de haces de filamentos de actina en las microvellosidades?",
+        "options": ["Actina", "Filamina", "Fimbrina", "Dineína"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de filamento del citoesqueleto es fundamental para la formación de los cilios y flagelos?",
+        "options": ["Microfilamentos", "Microtúbulos", "Filamentos intermedios", "Centríolos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la función principal de las proteínas Tau en los axones neuronales?",
+        "options": ["Movimiento de vesículas", "Estabilización de microtúbulos", "Transporte de organelos", "Polimerización de actina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína es esencial para la nucleación de los microtúbulos en el centrosoma?",
+        "options": ["Tubulina alfa", "Tubulina beta", "Tubulina gamma", "Quinesina"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura se encuentra en el centrosoma y está compuesta por microtúbulos en disposición de nueve tripletes?",
+        "options": ["Cilios", "Flagelos", "Centríolos", "Microfilamentos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la función principal de las integrinas en las células epiteliales?",
+        "options": ["Movimiento de vesículas", "Adhesión celular y transmisión de señales", "Transporte de organelos", "Polimerización de microtúbulos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína es responsable de la estabilización de los microtúbulos en los axones de las neuronas?",
+        "options": ["MAP2", "Tau", "Quinesina", "Dineína"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína motora se mueve hacia el extremo negativo del microtúbulo?",
+        "options": ["Dineína", "Quinesina", "Miosina", "Actina"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué proteína forma parte de los filamentos intermedios en las células musculares?",
+        "options": ["Vimentina", "Desmina", "Queratina", "Neurofilamentos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la función principal de las dineínas en los cilios y flagelos?",
+        "options": ["Estabilización de microtúbulos", "Movimiento de cilios y flagelos", "Transporte intracelular", "Polimerización de actina"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura está formada por microtúbulos en disposición de nueve dobletes y un par central?",
+        "options": ["Cilios", "Flagelos", "Centríolos", "Microfilamentos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué proteína es esencial para la formación de pseudópodos en las células ameboides?",
+        "options": ["Actina", "Tubulina", "Quinesina", "Dineína"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué filamento del citoesqueleto está implicado en el movimiento ameboide?",
+        "options": ["Microtúbulos", "Filamentos intermedios", "Microfilamentos", "Centríolos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proteína es responsable de la estabilización de los filamentos de actina en las microvellosidades?",
+        "options": ["Vimentina", "Desmina", "Queratina", "Fimbrina"],
+        "answer": 3
+    },
+    {
+        "question": "¿Cuál es la principal función de los filamentos de actina en los eritrocitos?",
+        "options": ["Movimiento de vesículas", "Mantenimiento de la forma celular", "Contracción muscular", "Polimerización de microtúbulos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proteína motora se desplaza a lo largo de los microtúbulos hacia el extremo positivo?",
+        "options": ["Dineína", "Quinesina", "Miosina", "Actina"],
+        "answer": 1
+    }
+]
