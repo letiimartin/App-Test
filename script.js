@@ -28,7 +28,7 @@ function loadMenu() {
         { title: "TEMA 4: TRANSPORTE A TRAVÉS DE LAS MEMBRANAS CELULARES", id: "tema4" },
         { title: "TEMA 5: EL CITOSOL Y LOS RIBOSOMAS", id: "tema5" },
         { title: "TEMA 6: PROTEÍNAS DE ESTRÉS Y SISTEMAS CELULARES DE ELIMINACIÓN DE PROTEÍNAS", id: "tema6" },
-        { title: "TEMA 7 A 9: EL CITOESQUELETO", id: "tema7a9" }
+        { title: "TEMA 7 A 9: EL CITOESQUELETO", id: "tema7" }
     ];
 
     themes.forEach(theme => {
