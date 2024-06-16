@@ -1,0 +1,503 @@
+[
+    {
+        "question": "¿Cuál es la principal función del citosol?",
+        "options": ["Biosíntesis de aminoácidos", "Traducción del ARN", "Degradación de lípidos", "Producción de ATP"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué porcentaje de agua compone el citosol?",
+        "options": ["50%", "60%", "70%", "80%"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué estructura celular está involucrada en la síntesis de proteínas?",
+        "options": ["Lisosomas", "Ribosomas", "Mitocondrias", "Peroxisomas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Quiénes descubrieron los ribosomas mediante microscopía electrónica?",
+        "options": ["Claude y Palade", "Watson y Crick", "Schleiden y Schwann", "Golgi y Nissl"],
+        "answer": 0
+    },
+    {
+        "question": "¿En qué año se obtuvo la estructura tridimensional de los ribosomas por cristalografía?",
+        "options": ["1953", "1969", "1979", "1985"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué componente de los ribosomas es fundamental para su estructura?",
+        "options": ["ADN", "Proteínas", "ARN ribosomal", "Lípidos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué porcentaje de los ribosomas está compuesto por ARN ribosomal?",
+        "options": ["50%", "60%", "70%", "80%"],
+        "answer": 3
+    },
+    {
+        "question": "¿Dónde se produce la síntesis de proteínas en la célula?",
+        "options": ["Núcleo", "Ribosomas", "Lisosomas", "Aparato de Golgi"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso convierte el ARNm en proteínas?",
+        "options": ["Replicación", "Transcripción", "Traducción", "Transducción"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura se encuentra en el nucléolo y está involucrada en la formación de ribosomas?",
+        "options": ["ADN", "ARN ribosomal", "ARN mensajero", "Proteínas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué molécula se une a los ribosomas para iniciar la síntesis de proteínas?",
+        "options": ["ARN de transferencia", "ADN", "ARN mensajero", "Proteínas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura del ARN transferente es crucial para su función durante la traducción?",
+        "options": ["Extremo 5'", "Extremo 3'", "Anticodón", "Cola poli-A"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de enlace se forma entre los aminoácidos durante la síntesis de proteínas?",
+        "options": ["Iónico", "Covalente", "Puente de hidrógeno", "Enlace peptídico"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué nombre recibe el complejo formado por el ARNm y los ribosomas durante la traducción?",
+        "options": ["Complejo de iniciación", "Polirribosoma", "Complejo ribosomal", "Complejo de elongación"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué fase de la traducción implica la unión del ARN transferente al ribosoma?",
+        "options": ["Inicio", "Elongación", "Terminación", "Modificación postraduccional"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué estructura del ribosoma se une al codón del ARN mensajero?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Subunidad pequeña del ribosoma"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué enzima une el aminoácido correcto al ARN de transferencia?",
+        "options": ["ARN polimerasa", "Aminoacil-ARNt sintetasa", "Peptidil transferasa", "Ligasa"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué fase de la traducción implica la formación de enlaces peptídicos?",
+        "options": ["Inicio", "Elongación", "Terminación", "Modificación postraduccional"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura celular contiene la maquinaria necesaria para la síntesis de proteínas?",
+        "options": ["Mitocondrias", "Ribosomas", "Lisosomas", "Peroxisomas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso permite la traducción simultánea de una molécula de ARNm por múltiples ribosomas?",
+        "options": ["Transcripción", "Polirribosoma", "Transducción", "Reacción en cadena de la polimerasa"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de ribosomas están presentes en procariotas y eucariotas?",
+        "options": ["80S", "70S", "60S", "50S"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué componente ribosomal es responsable de la catálisis durante la síntesis de proteínas?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Subunidad pequeña del ribosoma"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué molécula de ARN es crucial para la formación del enlace peptídico?",
+        "options": ["ARN mensajero", "ARN ribosomal", "ARN de transferencia", "ARN nuclear"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proceso ocurre cuando el ribosoma se mueve a lo largo del ARNm durante la síntesis de proteínas?",
+        "options": ["Inicio", "Elongación", "Terminación", "Translocación"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué fase de la traducción implica la liberación de la cadena polipeptídica del ribosoma?",
+        "options": ["Inicio", "Elongación", "Terminación", "Modificación postraduccional"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura del ribosoma reconoce los codones de terminación durante la traducción?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Factores de liberación", "ARN mensajero"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proceso permite la degradación de proteínas mal plegadas en la célula?",
+        "options": ["Ubicación en el nucléolo", "Marcaje con ubiquitina", "Modificación postraduccional", "Traducción de proteínas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura celular contiene proteasas que degradan proteínas no necesarias o dañadas?",
+        "options": ["Ribosomas", "Lisosomas", "Proteasomas", "Mitocondrias"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué molécula marca las proteínas para su degradación en el proteasoma?",
+        "options": ["Ubiquitina", "ARN ribosomal", "ARN de transferencia", "ARN mensajero"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué enzima se encarga de unir ubiquitina a las proteínas a degradar?",
+        "options": ["Proteasa", "Ligasa de ubiquitina", "Aminoacil-ARNt sintetasa", "ARN polimerasa"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso permite el control de la concentración de proteínas en la célula?",
+        "options": ["Traducción", "Transcripción", "Degradación de proteínas", "Modificación postraduccional"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué nombre recibe el complejo ribosomal unido al ARNm y traduciendo proteínas?",
+        "options": ["Polirribosoma", "Complejo de iniciación", "Complejo de elongación", "Complejo de terminación"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué componente ribosomal facilita la formación del enlace peptídico entre aminoácidos?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Subunidad pequeña del ribosoma"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué fase de la traducción implica la entrada de nuevos ARN de transferencia al ribosoma?",
+        "options": ["Inicio", "Elongación", "Terminación", "Translocación"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de ARN se une al ribosoma para guiar la síntesis de proteínas?",
+        "options": ["ARN mensajero", "ARN ribosomal", "ARN de transferencia", "ARN nuclear"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué molécula se hidroliza para proporcionar energía durante la síntesis de proteínas?",
+        "options": ["ATP", "GTP", "ADP", "NADH"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura del ribosoma se asocia al ARNm durante la iniciación de la traducción?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Subunidad pequeña del ribosoma"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué fase de la traducción implica la adición de aminoácidos a la cadena polipeptídica?",
+        "options": ["Inicio", "Elongación", "Terminación", "Modificación postraduccional"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura del ribosoma facilita el acoplamiento del ARN de transferencia con el codón del ARNm?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Subunidad pequeña del ribosoma"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué proceso permite la formación de múltiples copias de una proteína a partir de una molécula de ARNm?",
+        "options": ["Transcripción", "Polirribosoma", "Traducción", "Degradación de proteínas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de ribosomas están presentes en las mitocondrias y cloroplastos de células eucariotas?",
+        "options": ["70S", "80S", "60S", "50S"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué fase de la traducción implica la lectura del codón de inicio por el ribosoma?",
+        "options": ["Inicio", "Elongación", "Terminación", "Modificación postraduccional"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué estructura del ribosoma cataliza la formación del enlace peptídico entre aminoácidos?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Subunidad pequeña del ribosoma"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué molécula proporciona la energía necesaria para la elongación durante la traducción?",
+        "options": ["ATP", "GTP", "ADP", "NADH"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso permite la degradación selectiva de proteínas en la célula?",
+        "options": ["Ubicación en el nucléolo", "Marcaje con ubiquitina", "Modificación postraduccional", "Traducción de proteínas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura celular contiene las proteasas que degradan proteínas marcadas con ubiquitina?",
+        "options": ["Ribosomas", "Lisosomas", "Proteasomas", "Mitocondrias"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué molécula marca las proteínas para su degradación en el proteasoma?",
+        "options": ["Ubiquitina", "ARN ribosomal", "ARN de transferencia", "ARN mensajero"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué enzima se encarga de unir ubiquitina a las proteínas a degradar?",
+        "options": ["Proteasa", "Ligasa de ubiquitina", "Aminoacil-ARNt sintetasa", "ARN polimerasa"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso permite el control de la concentración de proteínas en la célula?",
+        "options": ["Traducción", "Transcripción", "Degradación de proteínas", "Modificación postraduccional"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué nombre recibe el complejo ribosomal unido al ARNm y traduciendo proteínas?",
+        "options": ["Polirribosoma", "Complejo de iniciación", "Complejo de elongación", "Complejo de terminación"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué componente ribosomal facilita la formación del enlace peptídico entre aminoácidos?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Subunidad pequeña del ribosoma"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué fase de la traducción implica la entrada de nuevos ARN de transferencia al ribosoma?",
+        "options": ["Inicio", "Elongación", "Terminación", "Translocación"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de ARN se une al ribosoma para guiar la síntesis de proteínas?",
+        "options": ["ARN mensajero", "ARN ribosomal", "ARN de transferencia", "ARN nuclear"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué molécula se hidroliza para proporcionar energía durante la síntesis de proteínas?",
+        "options": ["ATP", "GTP", "ADP", "NADH"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura del ribosoma se asocia al ARNm durante la iniciación de la traducción?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Subunidad pequeña del ribosoma"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué fase de la traducción implica la adición de aminoácidos a la cadena polipeptídica?",
+        "options": ["Inicio", "Elongación", "Terminación", "Modificación postraduccional"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura del ribosoma facilita el acoplamiento del ARN de transferencia con el codón del ARNm?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Subunidad pequeña del ribosoma"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué proceso permite la formación de múltiples copias de una proteína a partir de una molécula de ARNm?",
+        "options": ["Transcripción", "Polirribosoma", "Traducción", "Degradación de proteínas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de ribosomas están presentes en las mitocondrias y cloroplastos de células eucariotas?",
+        "options": ["70S", "80S", "60S", "50S"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué fase de la traducción implica la lectura del codón de inicio por el ribosoma?",
+        "options": ["Inicio", "Elongación", "Terminación", "Modificación postraduccional"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué estructura del ribosoma cataliza la formación del enlace peptídico entre aminoácidos?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Subunidad pequeña del ribosoma"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué molécula proporciona la energía necesaria para la elongación durante la traducción?",
+        "options": ["ATP", "GTP", "ADP", "NADH"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso permite la degradación selectiva de proteínas en la célula?",
+        "options": ["Ubicación en el nucléolo", "Marcaje con ubiquitina", "Modificación postraduccional", "Traducción de proteínas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura celular contiene las proteasas que degradan proteínas marcadas con ubiquitina?",
+        "options": ["Ribosomas", "Lisosomas", "Proteasomas", "Mitocondrias"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué molécula marca las proteínas para su degradación en el proteasoma?",
+        "options": ["Ubiquitina", "ARN ribosomal", "ARN de transferencia", "ARN mensajero"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué enzima se encarga de unir ubiquitina a las proteínas a degradar?",
+        "options": ["Proteasa", "Ligasa de ubiquitina", "Aminoacil-ARNt sintetasa", "ARN polimerasa"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso permite el control de la concentración de proteínas en la célula?",
+        "options": ["Traducción", "Transcripción", "Degradación de proteínas", "Modificación postraduccional"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué nombre recibe el complejo ribosomal unido al ARNm y traduciendo proteínas?",
+        "options": ["Polirribosoma", "Complejo de iniciación", "Complejo de elongación", "Complejo de terminación"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué componente ribosomal facilita la formación del enlace peptídico entre aminoácidos?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Subunidad pequeña del ribosoma"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué fase de la traducción implica la entrada de nuevos ARN de transferencia al ribosoma?",
+        "options": ["Inicio", "Elongación", "Terminación", "Translocación"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de ARN se une al ribosoma para guiar la síntesis de proteínas?",
+        "options": ["ARN mensajero", "ARN ribosomal", "ARN de transferencia", "ARN nuclear"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué molécula se hidroliza para proporcionar energía durante la síntesis de proteínas?",
+        "options": ["ATP", "GTP", "ADP", "NADH"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura del ribosoma se asocia al ARNm durante la iniciación de la traducción?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Subunidad pequeña del ribosoma"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué fase de la traducción implica la adición de aminoácidos a la cadena polipeptídica?",
+        "options": ["Inicio", "Elongación", "Terminación", "Modificación postraduccional"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura del ribosoma facilita el acoplamiento del ARN de transferencia con el codón del ARNm?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Subunidad pequeña del ribosoma"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué proceso permite la formación de múltiples copias de una proteína a partir de una molécula de ARNm?",
+        "options": ["Transcripción", "Polirribosoma", "Traducción", "Degradación de proteínas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de ARN es fundamental para la estructura y función de los ribosomas?",
+        "options": ["ARN ribosomal", "ARN mensajero", "ARN de transferencia", "ARN nuclear"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué estructura del ribosoma se une al codón de inicio del ARN mensajero?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Subunidad pequeña del ribosoma"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de ribosomas se encuentran en el citoplasma de las células eucariotas?",
+        "options": ["70S", "80S", "60S", "50S"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de las siguientes afirmaciones es correcta sobre los ribosomas?",
+        "options": ["Están compuestos por ARN y proteínas", "Participan en la síntesis de proteínas", "Se encuentran en el citosol y en el retículo endoplasmático rugoso", "Todas son correctas"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué molécula proporciona la energía necesaria para la síntesis de proteínas en los ribosomas?",
+        "options": ["ATP", "GTP", "ADP", "NADH"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué nombre recibe el proceso de ensamblaje de aminoácidos en una cadena polipeptídica en los ribosomas?",
+        "options": ["Transcripción", "Traducción", "Replicación", "Transducción"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura celular es el sitio principal de síntesis de proteínas en las células eucariotas?",
+        "options": ["Mitocondrias", "Ribosomas", "Cloroplastos", "Lisosomas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso celular se lleva a cabo en los ribosomas?",
+        "options": ["Síntesis de proteínas", "Replicación del ADN", "Degradación de proteínas", "Ninguna es correcta"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué molécula se une a los ribosomas para iniciar la síntesis de proteínas?",
+        "options": ["ARN de transferencia", "ARN ribosomal", "ARN mensajero", "Todas son correctas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura celular se ensambla en el nucléolo?",
+        "options": ["ARN ribosomal", "Ribosomas", "Subunidades ribosomales", "Todas son correctas"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué componente del ribosoma cataliza la formación de enlaces peptídicos entre aminoácidos?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Ninguna es correcta"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proceso celular es responsable de la degradación de proteínas dañadas o no necesarias?",
+        "options": ["Traducción", "Ubicación en el nucléolo", "Degradación en proteasomas", "Solo la opción 1 y 2 son correctas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de ARN se une a los ribosomas durante la síntesis de proteínas?",
+        "options": ["ARN ribosomal", "ARN mensajero", "ARN de transferencia", "Solo la opción 1 y 2 son correctas"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué molécula marca las proteínas para su degradación en el proteasoma?",
+        "options": ["Ubiquitina", "ARN ribosomal", "ARN de transferencia", "Todas son correctas"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué enzima se encarga de unir ubiquitina a las proteínas a degradar?",
+        "options": ["Proteasa", "Ligasa de ubiquitina", "Aminoacil-ARNt sintetasa", "Ninguna es correcta"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de ribosomas están presentes en procariotas?",
+        "options": ["80S", "70S", "60S", "50S"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso permite la traducción simultánea de una molécula de ARNm por múltiples ribosomas?",
+        "options": ["Transcripción", "Polirribosoma", "Traducción", "Ninguna es correcta"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura celular contiene proteasas que degradan proteínas no necesarias o dañadas?",
+        "options": ["Ribosomas", "Lisosomas", "Proteasomas", "Ninguna es correcta"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proceso permite la formación de múltiples copias de una proteína a partir de una molécula de ARNm?",
+        "options": ["Transcripción", "Polirribosoma", "Traducción", "Degradación de proteínas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura del ribosoma facilita el acoplamiento del ARN de transferencia con el codón del ARNm?",
+        "options": ["ARN ribosomal", "ARN de transferencia", "Subunidad grande del ribosoma", "Subunidad pequeña del ribosoma"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué fase de la traducción implica la entrada de nuevos ARN de transferencia al ribosoma?",
+        "options": ["Inicio", "Elongación", "Terminación", "Translocación"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué molécula se hidroliza para proporcionar energía durante la síntesis de proteínas?",
+        "options": ["ATP", "GTP", "ADP", "NADH"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso permite el control de la concentración de proteínas en la célula?",
+        "options": ["Traducción", "Transcripción", "Degradación de proteínas", "Modificación postraduccional"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué fase de la traducción implica la lectura del codón de inicio por el ribosoma?",
+        "options": ["Inicio", "Elongación", "Terminación", "Modificación postraduccional"],
+        "answer": 0
+    }
+    
+]

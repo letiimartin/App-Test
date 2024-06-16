@@ -1,0 +1,502 @@
+[
+    {
+        "question": "¿Cuál de los siguientes métodos es utilizado para la observación in situ de la transparencia de órganos en animales vivos?",
+        "options": ["Cámaras transparentes", "Transiluminación", "Tomografía por emisión de positrones", "Microscopía electrónica de transmisión"],
+        "answer": 1
+    },
+    {
+        "question": "La técnica de homogeneización en biología celular se utiliza principalmente para:",
+        "options": ["Observar la circulación en pequeños vasos", "Cortar secciones finas de tejido congelado", "Romper células y liberar sus componentes internos", "Realizar estudios de transiluminación"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal diferencia entre el microtomo de parafina y el criostato?",
+        "options": ["El microtomo de parafina corta secciones de tejido congelado, mientras que el criostato corta secciones embebidas en parafina", "El microtomo de parafina se utiliza para cortes en fresco y el criostato para cortes fijados", "El microtomo de parafina corta secciones de tejido embebido en parafina y el criostato corta secciones de material congelado", "El microtomo de parafina utiliza ultrasonidos y el criostato usa láser"],
+        "answer": 2
+    },
+    {
+        "question": "La técnica de tomografía por emisión de positrones (PET) se emplea principalmente para:",
+        "options": ["Estudiar la circulación en pequeños vasos en vivo", "Visualizar órganos internos mediante transparencia", "Detectar elementos radiactivos sin sacrificar al organismo", "Cortar rebanadas de material congelado"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes instrumentos se utiliza para obtener imágenes tridimensionales mediante un haz de electrones que barre la superficie del objeto?",
+        "options": ["Microscopio de transmisión convencional (TEM)", "Microscopio de barrido convencional (SEM)", "Microscopio confocal", "Microscopio de luz polarizada"],
+        "answer": 1
+    },
+    {
+        "question": "La técnica de digestión enzimática en biología celular se usa para:",
+        "options": ["Separar y disociar células mediante la digestión de componentes extracelulares", "Realizar la observación de la circulación en vasos pequeños", "Cortar secciones de tejido fijado con parafina", "Visualizar estructuras tridimensionales con un rayo láser"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de microscopio se utiliza para convertir pequeñas diferencias en el índice de refracción en diferencias de intensidad visibles?",
+        "options": ["Microscopio de fluorescencia", "Microscopio de luz polarizada", "Microscopio de contraste de fases", "Microscopio confocal"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la técnica del frotis en biología celular?",
+        "options": ["Cortar secciones finas de material congelado", "Separar componentes celulares por ultracentrifugación", "Extender una muestra de fluido corporal sobre un portaobjetos para su análisis", "Visualizar estructuras internas mediante transiluminación"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué característica es esencial en la técnica de cámaras transparentes?",
+        "options": ["La utilización de un rayo láser para iluminación", "La observación de la circulación sanguínea en vivo", "La obtención de secciones finas mediante ultracentrifugación", "La extensión de una muestra de fluido corporal"],
+        "answer": 1
+    },
+    {
+        "question": "La técnica de maceración en biología celular se refiere a:",
+        "options": ["Cortar secciones de material congelado", "Separar células sumergiendo tejido en un líquido para ablandarlo", "Utilizar ultrasonidos para disociar células", "Extender una muestra de fluido corporal sobre un portaobjetos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de los siguientes métodos se utiliza para observar la circulación en pequeños vasos en vivo?",
+        "options": ["Cámaras transparentes", "Transiluminación", "Tomografía por emisión de positrones", "Microscopía electrónica de transmisión"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué técnica se utiliza para liberar los componentes internos de las células?",
+        "options": ["Homogeneización", "Ultracentrifugación", "Microtomo de congelación", "Microscopía de contraste de fases"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la principal diferencia entre la técnica de homogeneización y la de ultracentrifugación?",
+        "options": ["La homogeneización corta secciones de tejido congelado y la ultracentrifugación separa componentes celulares", "La homogeneización rompe células y la ultracentrifugación separa sus componentes", "La homogeneización es para células vivas y la ultracentrifugación para células fijadas", "La homogeneización utiliza líquidos y la ultracentrifugación usa láser"],
+        "answer": 1
+    },
+    {
+        "question": "La técnica de transiluminación se emplea principalmente para:",
+        "options": ["Estudiar la circulación en pequeños vasos en vivo", "Visualizar órganos internos mediante transparencia", "Detectar elementos radiactivos sin sacrificar al organismo", "Cortar rebanadas de material congelado"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de los siguientes instrumentos se utiliza para observar células vivas sin necesidad de teñirlas?",
+        "options": ["Microscopio de transmisión convencional (TEM)", "Microscopio de barrido convencional (SEM)", "Microscopio de contraste de fases", "Microscopio de luz polarizada"],
+        "answer": 2
+    },
+    {
+        "question": "La técnica de homogeneización en biología celular se refiere a:",
+        "options": ["Cortar secciones de material congelado", "Separar células sumergiendo tejido en un líquido para ablandarlo", "Romper células y liberar sus componentes internos", "Extender una muestra de fluido corporal sobre un portaobjetos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal función del retículo endoplasmático rugoso?",
+        "options": ["Síntesis de proteínas", "Síntesis de lípidos", "Detoxificación de sustancias", "Almacenamiento de calcio"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de los siguientes métodos permite la observación de la circulación en pequeños vasos?",
+        "options": ["Cámaras transparentes", "Transiluminación", "Tomografía por emisión de positrones", "Microscopía electrónica de transmisión"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué técnica se utiliza para separar orgánulos celulares basándose en sus diferencias de densidad?",
+        "options": ["Homogeneización", "Ultracentrifugación", "Microtomo de congelación", "Microscopía de contraste de fases"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la principal diferencia entre la técnica de frotis y la de impronta?",
+        "options": ["La técnica de frotis utiliza tejido fijado y la de impronta tejido fresco", "La técnica de frotis es para fluidos corporales y la de impronta para tejidos sólidos", "La técnica de frotis es para cortar secciones y la de impronta para observar células vivas", "La técnica de frotis utiliza líquidos y la de impronta no"],
+        "answer": 1
+    },
+    {
+        "question": "La técnica de cámaras transparentes se emplea principalmente para:",
+        "options": ["Estudiar la circulación en pequeños vasos en vivo", "Visualizar órganos internos mediante transparencia", "Detectar elementos radiactivos sin sacrificar al organismo", "Cortar rebanadas de material congelado"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de los siguientes instrumentos se utiliza para observar células vivas sin necesidad de teñirlas?",
+        "options": ["Microscopio de fluorescencia", "Microscopio de luz polarizada", "Microscopio de contraste de fases", "Microscopio confocal"],
+        "answer": 2
+    },
+    {
+        "question": "La técnica de digestión enzimática en biología celular se usa para:",
+        "options": ["Separar y disociar células mediante la digestión de componentes extracelulares", "Realizar la observación de la circulación en vasos pequeños", "Cortar secciones de tejido fijado con parafina", "Visualizar estructuras tridimensionales con un rayo láser"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de microscopio se utiliza para convertir pequeñas diferencias en el índice de refracción en diferencias de intensidad visibles?",
+        "options": ["Microscopio de fluorescencia", "Microscopio de luz polarizada", "Microscopio de contraste de fases", "Microscopio confocal"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la técnica del frotis en biología celular?",
+        "options": ["Cortar secciones finas de material congelado", "Separar componentes celulares por ultracentrifugación", "Extender una muestra de fluido corporal sobre un portaobjetos para su análisis", "Visualizar estructuras internas mediante transiluminación"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué característica es esencial en la técnica de cámaras transparentes?",
+        "options": ["La utilización de un rayo láser para iluminación", "La observación de la circulación sanguínea en vivo", "La obtención de secciones finas mediante ultracentrifugación", "La extensión de una muestra de fluido corporal"],
+        "answer": 1
+    },
+    {
+        "question": "La técnica de maceración en biología celular se refiere a:",
+        "options": ["Cortar secciones de material congelado", "Separar células sumergiendo tejido en un líquido para ablandarlo", "Utilizar ultrasonidos para disociar células", "Extender una muestra de fluido corporal sobre un portaobjetos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de los siguientes métodos se utiliza para observar la circulación en pequeños vasos en vivo?",
+        "options": ["Cámaras transparentes", "Transiluminación", "Tomografía por emisión de positrones", "Microscopía electrónica de transmisión"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué técnica se utiliza para liberar los componentes internos de las células?",
+        "options": ["Homogeneización", "Ultracentrifugación", "Microtomo de congelación", "Microscopía de contraste de fases"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la principal diferencia entre el microtomo de congelación y el microtomo de parafina?",
+        "options": ["El microtomo de congelación corta secciones de tejido congelado y el microtomo de parafina corta secciones embebidas en parafina", "El microtomo de congelación se utiliza para cortes en fresco y el microtomo de parafina para cortes fijados", "El microtomo de congelación corta secciones de tejido fijado y el microtomo de parafina corta secciones frescas", "El microtomo de congelación utiliza ultrasonidos y el microtomo de parafina usa láser"],
+        "answer": 0
+    },
+    {
+        "question": "La técnica de tomografía por emisión de positrones (PET) se emplea principalmente para:",
+        "options": ["Estudiar la circulación en pequeños vasos en vivo", "Visualizar órganos internos mediante transparencia", "Detectar elementos radiactivos sin sacrificar al organismo", "Cortar rebanadas de material congelado"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes instrumentos se utiliza para observar la ultraestructura de las células?",
+        "options": ["Microscopio de transmisión convencional (TEM)", "Microscopio de barrido convencional (SEM)", "Microscopio confocal", "Microscopio de luz polarizada"],
+        "answer": 0
+    },
+    {
+        "question": "La técnica de frotis en biología celular se usa para:",
+        "options": ["Separar y disociar células mediante la digestión de componentes extracelulares", "Extender una muestra de fluido corporal sobre un portaobjetos para su análisis", "Cortar secciones de tejido fijado con parafina", "Visualizar estructuras tridimensionales con un rayo láser"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de microscopio se utiliza para convertir pequeñas diferencias en el índice de refracción en diferencias de intensidad visibles?",
+        "options": ["Microscopio de fluorescencia", "Microscopio de luz polarizada", "Microscopio de contraste de fases", "Microscopio confocal"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la técnica del squash en biología celular?",
+        "options": ["Cortar secciones finas de material congelado", "Separar componentes celulares por ultracentrifugación", "Aplastar tejido para extender células individuales sobre un portaobjetos", "Visualizar estructuras internas mediante transiluminación"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué característica es esencial en la técnica de transiluminación?",
+        "options": ["La utilización de un rayo láser para iluminación", "La observación de la circulación sanguínea en vivo", "La transparencia del tejido para permitir la visualización de órganos internos", "La extensión de una muestra de fluido corporal"],
+        "answer": 2
+    },
+    {
+        "question": "La técnica de homogeneización en biología celular se refiere a:",
+        "options": ["Cortar secciones de material congelado", "Separar células sumergiendo tejido en un líquido para ablandarlo", "Romper células y liberar sus componentes internos", "Extender una muestra de fluido corporal sobre un portaobjetos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes métodos permite la observación de la circulación en pequeños vasos?",
+        "options": ["Cámaras transparentes", "Transiluminación", "Tomografía por emisión de positrones", "Microscopía electrónica de transmisión"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué técnica se utiliza para separar orgánulos celulares basándose en sus diferencias de densidad?",
+        "options": ["Homogeneización", "Ultracentrifugación", "Microtomo de congelación", "Microscopía de contraste de fases"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la principal diferencia entre la técnica de homogeneización y la de ultracentrifugación?",
+        "options": ["La homogeneización corta secciones de tejido congelado y la ultracentrifugación separa componentes celulares", "La homogeneización rompe células y la ultracentrifugación separa sus componentes", "La homogeneización es para células vivas y la ultracentrifugación para células fijadas", "La homogeneización utiliza líquidos y la ultracentrifugación usa láser"],
+        "answer": 1
+    },
+    {
+        "question": "La técnica de transiluminación se emplea principalmente para:",
+        "options": ["Estudiar la circulación en pequeños vasos en vivo", "Visualizar órganos internos mediante transparencia", "Detectar elementos radiactivos sin sacrificar al organismo", "Cortar rebanadas de material congelado"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de los siguientes instrumentos se utiliza para observar células vivas sin necesidad de teñirlas?",
+        "options": ["Microscopio de transmisión convencional (TEM)", "Microscopio de barrido convencional (SEM)", "Microscopio de contraste de fases", "Microscopio de luz polarizada"],
+        "answer": 2
+    },
+    {
+        "question": "La técnica de digestión enzimática en biología celular se usa para:",
+        "options": ["Separar y disociar células mediante la digestión de componentes extracelulares", "Realizar la observación de la circulación en vasos pequeños", "Cortar secciones de tejido fijado con parafina", "Visualizar estructuras tridimensionales con un rayo láser"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de microscopio se utiliza para convertir pequeñas diferencias en el índice de refracción en diferencias de intensidad visibles?",
+        "options": ["Microscopio de fluorescencia", "Microscopio de luz polarizada", "Microscopio de contraste de fases", "Microscopio confocal"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la técnica del frotis en biología celular?",
+        "options": ["Cortar secciones finas de material congelado", "Separar componentes celulares por ultracentrifugación", "Extender una muestra de fluido corporal sobre un portaobjetos para su análisis", "Visualizar estructuras internas mediante transiluminación"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué característica es esencial en la técnica de cámaras transparentes?",
+        "options": ["La utilización de un rayo láser para iluminación", "La observación de la circulación sanguínea en vivo", "La obtención de secciones finas mediante ultracentrifugación", "La extensión de una muestra de fluido corporal"],
+        "answer": 1
+    },
+    {
+        "question": "La técnica de maceración en biología celular se refiere a:",
+        "options": ["Cortar secciones de material congelado", "Separar células sumergiendo tejido en un líquido para ablandarlo", "Utilizar ultrasonidos para disociar células", "Extender una muestra de fluido corporal sobre un portaobjetos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de los siguientes métodos se utiliza para observar la circulación en pequeños vasos en vivo?",
+        "options": ["Cámaras transparentes", "Transiluminación", "Tomografía por emisión de positrones", "Microscopía electrónica de transmisión"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué técnica se utiliza para liberar los componentes internos de las células?",
+        "options": ["Homogeneización", "Ultracentrifugación", "Microtomo de congelación", "Microscopía de contraste de fases"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la principal diferencia entre el microtomo de congelación y el microtomo de parafina?",
+        "options": ["El microtomo de congelación corta secciones de tejido congelado y el microtomo de parafina corta secciones embebidas en parafina", "El microtomo de congelación se utiliza para cortes en fresco y el microtomo de parafina para cortes fijados", "El microtomo de congelación corta secciones de tejido fijado y el microtomo de parafina corta secciones frescas", "El microtomo de congelación utiliza ultrasonidos y el microtomo de parafina usa láser"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de técnica se utiliza para ablandar tejidos sumergiéndolos en un líquido?",
+        "options": ["Homogeneización", "Maceración", "Centrifugación", "Transiluminación"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de los siguientes métodos permite observar la ultraestructura de las células?",
+        "options": ["Microscopio confocal", "Microscopio de transmisión convencional (TEM)", "Microscopio de luz polarizada", "Ninguna es correcta"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica se emplea para la separación de elementos de una suspensión mediante la velocidad de giro?",
+        "options": ["Homogeneización", "Maceración", "Centrifugación", "Transiluminación"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es el objetivo de la técnica de los injertos blefoblásticos?",
+        "options": ["Observar la circulación en pequeños vasos", "Transiluminación de órganos", "Visualizar el desarrollo de tejidos trasplantados", "Realizar cortes finos de tejido"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se utiliza para obtener imágenes tridimensionales mediante un haz de electrones?",
+        "options": ["Microscopio de transmisión convencional (TEM)", "Microscopio de barrido convencional (SEM)", "Microscopio confocal", "Microscopio de luz polarizada"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de preparación se realiza extendiendo una muestra de fluido corporal sobre un portaobjetos?",
+        "options": ["Frotis", "Impronta", "Corte por congelación", "Ninguna es correcta"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la principal diferencia entre la técnica del squash y la del frotis?",
+        "options": ["El squash aplasta tejido y el frotis extiende fluido", "El squash se usa para líquidos y el frotis para sólidos", "El squash es para cortar secciones y el frotis para observar células vivas", "Ninguna es correcta"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué técnica permite la observación de estructuras tridimensionales con un rayo láser?",
+        "options": ["Microscopio de transmisión convencional (TEM)", "Microscopio de barrido convencional (SEM)", "Microscopio confocal", "Microscopio de luz polarizada"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de las siguientes técnicas se emplea para estudiar la circulación en pequeños vasos en vivo?",
+        "options": ["Transiluminación", "Cámaras transparentes", "Tomografía por emisión de positrones", "Todas son correctas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica se utiliza para observar la ultraestructura de las células?",
+        "options": ["Microscopio de transmisión convencional (TEM)", "Microscopio de barrido convencional (SEM)", "Microscopio confocal", "Microscopio de luz polarizada"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de microscopio utiliza un sistema de iluminación con rayo láser para obtener imágenes tridimensionales?",
+        "options": ["Microscopio de fluorescencia", "Microscopio de luz polarizada", "Microscopio confocal", "Microscopio de campo oscuro"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la técnica empleada para separar células sumergiendo el tejido en un líquido para ablandarlo?",
+        "options": ["Homogeneización", "Maceración", "Centrifugación", "Transiluminación"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica se utiliza para cortar secciones de material congelado?",
+        "options": ["Microtomo de parafina", "Criostato", "Vibratomo", "Ninguna es correcta"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica se emplea para detectar elementos radiactivos sin sacrificar al organismo?",
+        "options": ["Transiluminación", "Cámaras transparentes", "Tomografía por emisión de positrones", "Homogeneización"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes métodos utiliza una cámara fría para cortar rebanadas de material congelado?",
+        "options": ["Microtomo de parafina", "Criostato", "Vibratomo", "Homogeneización"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica se emplea para observar la circulación en pequeños vasos en vivo mediante un injerto?",
+        "options": ["Cámaras transparentes", "Injertos blefoblásticos", "Tomografía por emisión de positrones", "Transiluminación"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de microscopio se utiliza para observar materiales birrefringentes?",
+        "options": ["Microscopio de luz polarizada", "Microscopio de contraste de fases", "Microscopio confocal", "Microscopio de fluorescencia"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de los siguientes métodos se utiliza para observar la circulación en pequeños vasos en vivo?",
+        "options": ["Cámaras transparentes", "Transiluminación", "Tomografía por emisión de positrones", "Microscopía electrónica de transmisión"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué técnica se emplea para la observación de órganos internos mediante transparencia?",
+        "options": ["Cámaras transparentes", "Transiluminación", "Tomografía por emisión de positrones", "Homogeneización"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de las siguientes técnicas se utiliza para observar células vivas sin necesidad de teñirlas?",
+        "options": ["Microscopio de fluorescencia", "Microscopio de luz polarizada", "Microscopio de contraste de fases", "Microscopio confocal"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se utiliza para observar la circulación sanguínea en pequeños vasos en animales vivos?",
+        "options": ["Transiluminación", "Tomografía por emisión de positrones", "Cámaras transparentes", "Microscopio confocal"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se utiliza para separar orgánulos celulares basándose en sus diferencias de densidad?",
+        "options": ["Homogeneización", "Centrifugación", "Transiluminación", "Microscopía de contraste de fases"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué método utiliza un haz de electrones para barrer la superficie de un objeto y obtener imágenes tridimensionales?",
+        "options": ["Microscopio de transmisión convencional (TEM)", "Microscopio de barrido convencional (SEM)", "Microscopio confocal", "Microscopio de luz polarizada"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de las siguientes técnicas se utiliza para separar células mediante la digestión de componentes extracelulares?",
+        "options": ["Homogeneización", "Maceración", "Digestión enzimática", "Ninguna es correcta"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica permite la visualización de estructuras tridimensionales mediante la superposición de imágenes de diferentes planos?",
+        "options": ["Microscopio confocal", "Microscopio de fluorescencia", "Microscopio de luz polarizada", "Microscopio de contraste de fases"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la técnica del squash en biología celular?",
+        "options": ["Cortar secciones finas de material congelado", "Separar componentes celulares por ultracentrifugación", "Aplastar tejido para extender células individuales sobre un portaobjetos", "Visualizar estructuras internas mediante transiluminación"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal diferencia entre la técnica de maceración y la de digestión enzimática?",
+        "options": ["La maceración utiliza líquidos y la digestión enzimática usa enzimas", "La maceración es para células vivas y la digestión enzimática para células fijadas", "La maceración corta secciones de tejido y la digestión enzimática las disuelve", "Ninguna es correcta"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué técnica se utiliza para observar la circulación sanguínea en pequeños vasos en animales vivos?",
+        "options": ["Transiluminación", "Tomografía por emisión de positrones", "Cámaras transparentes", "Microscopio confocal"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes instrumentos se utiliza para obtener imágenes tridimensionales mediante un haz de electrones?",
+        "options": ["Microscopio de transmisión convencional (TEM)", "Microscopio de barrido convencional (SEM)", "Microscopio confocal", "Microscopio de luz polarizada"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica se utiliza para separar orgánulos celulares basándose en sus diferencias de densidad?",
+        "options": ["Homogeneización", "Ultracentrifugación", "Microtomo de congelación", "Microscopía de contraste de fases"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la principal diferencia entre la técnica de homogeneización y la de ultracentrifugación?",
+        "options": ["La homogeneización corta secciones de tejido congelado y la ultracentrifugación separa componentes celulares", "La homogeneización rompe células y la ultracentrifugación separa sus componentes", "La homogeneización es para células vivas y la ultracentrifugación para células fijadas", "La homogeneización utiliza líquidos y la ultracentrifugación usa láser"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de las siguientes técnicas se utiliza para observar la circulación en pequeños vasos en vivo?",
+        "options": ["Cámaras transparentes", "Transiluminación", "Tomografía por emisión de positrones", "Todas son correctas"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de microscopio utiliza un sistema de iluminación con rayo láser para obtener imágenes tridimensionales?",
+        "options": ["Microscopio de fluorescencia", "Microscopio de luz polarizada", "Microscopio confocal", "Microscopio de campo oscuro"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de las siguientes técnicas se utiliza para separar células mediante la digestión de componentes extracelulares?",
+        "options": ["Homogeneización", "Maceración", "Digestión enzimática", "Ninguna es correcta"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica permite la visualización de estructuras tridimensionales mediante la superposición de imágenes de diferentes planos?",
+        "options": ["Microscopio confocal", "Microscopio de fluorescencia", "Microscopio de luz polarizada", "Microscopio de contraste de fases"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué método utiliza un haz de electrones para barrer la superficie de un objeto y obtener imágenes tridimensionales?",
+        "options": ["Microscopio de transmisión convencional (TEM)", "Microscopio de barrido convencional (SEM)", "Microscopio confocal", "Microscopio de luz polarizada"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la técnica empleada para separar células sumergiendo el tejido en un líquido para ablandarlo?",
+        "options": ["Homogeneización", "Maceración", "Centrifugación", "Transiluminación"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de microscopio se utiliza para convertir pequeñas diferencias en el índice de refracción en diferencias de intensidad visibles?",
+        "options": ["Microscopio de fluorescencia", "Microscopio de luz polarizada", "Microscopio de contraste de fases", "Microscopio confocal"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es el objetivo principal de la técnica del squash en biología celular?",
+        "options": ["Cortar secciones finas de material congelado", "Separar componentes celulares por ultracentrifugación", "Aplastar tejido para extender células individuales sobre un portaobjetos", "Visualizar estructuras internas mediante transiluminación"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se utiliza para observar la circulación sanguínea en pequeños vasos en animales vivos?",
+        "options": ["Transiluminación", "Tomografía por emisión de positrones", "Cámaras transparentes", "Microscopio confocal"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se utiliza para separar orgánulos celulares basándose en sus diferencias de densidad?",
+        "options": ["Homogeneización", "Centrifugación", "Transiluminación", "Microscopía de contraste de fases"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de preparación se realiza extendiendo una muestra de fluido corporal sobre un portaobjetos?",
+        "options": ["Frotis", "Impronta", "Corte por congelación", "Ninguna es correcta"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de las siguientes técnicas se utiliza para separar células mediante la digestión de componentes extracelulares?",
+        "options": ["Homogeneización", "Maceración", "Digestión enzimática", "Ninguna es correcta"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se utiliza para obtener imágenes tridimensionales mediante un haz de electrones?",
+        "options": ["Microscopio de transmisión convencional (TEM)", "Microscopio de barrido convencional (SEM)", "Microscopio confocal", "Microscopio de luz polarizada"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de los siguientes métodos se utiliza para observar la circulación en pequeños vasos en vivo?",
+        "options": ["Cámaras transparentes", "Transiluminación", "Tomografía por emisión de positrones", "Microscopía electrónica de transmisión"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la principal diferencia entre la técnica de homogeneización y la de ultracentrifugación?",
+        "options": ["La homogeneización corta secciones de tejido congelado y la ultracentrifugación separa componentes celulares", "La homogeneización rompe células y la ultracentrifugación separa sus componentes", "La homogeneización es para células vivas y la ultracentrifugación para células fijadas", "La homogeneización utiliza líquidos y la ultracentrifugación usa láser"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de microscopio se utiliza para observar materiales birrefringentes?",
+        "options": ["Microscopio de luz polarizada", "Microscopio de contraste de fases", "Microscopio confocal", "Microscopio de fluorescencia"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué técnica se utiliza para separar orgánulos celulares basándose en sus diferencias de densidad?",
+        "options": ["Homogeneización", "Ultracentrifugación", "Microtomo de congelación", "Microscopía de contraste de fases"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de los siguientes métodos se utiliza para observar la circulación en pequeños vasos en vivo?",
+        "options": ["Cámaras transparentes", "Transiluminación", "Tomografía por emisión de positrones", "Microscopía electrónica de transmisión"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de microscopio utiliza un sistema de iluminación con rayo láser para obtener imágenes tridimensionales?",
+        "options": ["Microscopio de fluorescencia", "Microscopio de luz polarizada", "Microscopio confocal", "Microscopio de campo oscuro"],
+        "answer": 2
+    }
+]

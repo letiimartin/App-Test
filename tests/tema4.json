@@ -1,0 +1,504 @@
+[
+    {
+        "question": "¿Qué característica de la membrana plasmática permite la difusión de moléculas pequeñas y no polares?",
+        "options": ["Permeabilidad selectiva", "Rigidez", "Asimetría", "Flexibilidad"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de las siguientes moléculas puede difundirse fácilmente a través de la membrana plasmática?",
+        "options": ["Oxígeno", "Iones", "Glucosa", "Proteínas"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de moléculas requieren proteínas transportadoras para atravesar la membrana?",
+        "options": ["Moléculas hidrofóbicas", "Moléculas pequeñas sin carga", "Iones y moléculas cargadas", "Gases"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal función de las acuaporinas en la membrana celular?",
+        "options": ["Transportar iones", "Transportar agua", "Transportar glucosa", "Transportar oxígeno"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte requiere ATP para mover moléculas en contra de su gradiente de concentración?",
+        "options": ["Transporte pasivo", "Difusión simple", "Difusión facilitada", "Transporte activo"],
+        "answer": 3
+    },
+    {
+        "question": "¿Cuál de las siguientes afirmaciones es verdadera sobre la difusión facilitada?",
+        "options": ["Requiere ATP", "Ocurre a través de proteínas de canal", "Es un tipo de transporte activo", "No requiere proteínas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de canal permite el paso exclusivo de agua a través de la membrana?",
+        "options": ["Canal de sodio", "Acuaporina", "Canal de potasio", "Canal de calcio"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte ocurre a favor del gradiente de concentración y no requiere energía?",
+        "options": ["Transporte activo", "Difusión simple", "Endocitosis", "Exocitosis"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de bomba utiliza la energía de la luz para transportar moléculas en contra de su gradiente?",
+        "options": ["Bomba de sodio", "Bomba de protones", "Bomba impulsada por ATP", "Bomba impulsada por luz"],
+        "answer": 3
+    },
+    {
+        "question": "¿Cuál de los siguientes procesos permite la incorporación de moléculas grandes en la célula mediante vesículas?",
+        "options": ["Difusión facilitada", "Transporte activo", "Endocitosis", "Difusión simple"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte utiliza proteínas transmembrana para mover moléculas sin consumir ATP?",
+        "options": ["Transporte activo", "Difusión simple", "Difusión facilitada", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la función principal de los canales iónicos en la membrana celular?",
+        "options": ["Transportar agua", "Transportar proteínas", "Transportar iones", "Transportar glucosa"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de canal permite el paso de más de una molécula en la misma dirección?",
+        "options": ["Uniporte", "Antiporte", "Simporte", "Canal iónico"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte utiliza proteínas de canal para permitir el paso de moléculas específicas?",
+        "options": ["Transporte activo", "Difusión simple", "Difusión facilitada", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal diferencia entre el transporte activo y el transporte pasivo?",
+        "options": ["El transporte activo requiere ATP y el pasivo no", "El transporte pasivo requiere ATP y el activo no", "Ambos requieren ATP", "Ninguno requiere ATP"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de transporte se utiliza para mover moléculas en contra de su gradiente de concentración?",
+        "options": ["Transporte pasivo", "Difusión simple", "Difusión facilitada", "Transporte activo"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de transporte implica la fusión de vesículas con la membrana plasmática para liberar su contenido?",
+        "options": ["Endocitosis", "Exocitosis", "Difusión facilitada", "Transporte activo"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué característica tienen las membranas que les permite regular el paso de sustancias?",
+        "options": ["Permeabilidad selectiva", "Rigidez", "Impermeabilidad total", "Elasticidad"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de moléculas requieren canales específicos para cruzar la membrana celular?",
+        "options": ["Moléculas hidrofóbicas", "Moléculas pequeñas sin carga", "Iones y moléculas cargadas", "Gases"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal función de las bombas de protones en la membrana celular?",
+        "options": ["Transportar glucosa", "Transportar oxígeno", "Crear gradientes de protones", "Transportar sodio"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte implica el movimiento de moléculas desde una región de mayor concentración a una de menor concentración?",
+        "options": ["Transporte activo", "Difusión facilitada", "Difusión simple", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de canal permite el paso de iones en dirección opuesta?",
+        "options": ["Uniporte", "Antiporte", "Simporte", "Canal iónico"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de proteínas forman poros hidrofílicos que permiten el paso de iones a través de la membrana?",
+        "options": ["Proteínas transportadoras", "Proteínas de canal", "Receptores de membrana", "Enzimas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál de los siguientes procesos utiliza energía lumínica para el transporte de moléculas?",
+        "options": ["Bomba de sodio-potasio", "Bomba de protones", "Transporte pasivo", "Bomba impulsada por luz"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué característica de la membrana permite la formación de gradientes de concentración?",
+        "options": ["Permeabilidad selectiva", "Rigidez", "Impermeabilidad total", "Elasticidad"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de transporte se clasifica en uniporte, simporte y antiporte?",
+        "options": ["Difusión simple", "Transporte activo", "Difusión facilitada", "Endocitosis"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la función principal de las proteínas transportadoras en la membrana celular?",
+        "options": ["Transportar agua", "Transportar iones", "Transportar moléculas específicas", "Transportar gases"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte celular involucra la ingestión de partículas grandes mediante vesículas?",
+        "options": ["Endocitosis", "Exocitosis", "Difusión facilitada", "Transporte activo"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de los siguientes tipos de transporte NO requiere el uso de proteínas?",
+        "options": ["Transporte activo", "Difusión facilitada", "Difusión simple", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proceso utiliza vesículas para transportar sustancias desde el interior al exterior de la célula?",
+        "options": ["Endocitosis", "Exocitosis", "Difusión facilitada", "Transporte activo"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte requiere proteínas transportadoras pero no ATP?",
+        "options": ["Transporte activo", "Difusión simple", "Difusión facilitada", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte utiliza energía química en forma de ATP?",
+        "options": ["Transporte pasivo", "Difusión simple", "Difusión facilitada", "Transporte activo"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de moléculas pueden atravesar la membrana celular sin ayuda de proteínas?",
+        "options": ["Iones", "Moléculas grandes", "Moléculas pequeñas no polares", "Moléculas cargadas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte implica el movimiento de moléculas a través de una membrana mediante proteínas de canal?",
+        "options": ["Transporte activo", "Difusión simple", "Difusión facilitada", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la función de las acuaporinas en la célula?",
+        "options": ["Transportar iones", "Transportar agua", "Transportar glucosa", "Transportar oxígeno"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte celular ocurre en contra del gradiente de concentración y requiere energía?",
+        "options": ["Difusión facilitada", "Difusión simple", "Transporte activo", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes NO es un tipo de transporte pasivo?",
+        "options": ["Difusión simple", "Difusión facilitada", "Transporte activo", "Osmosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué característica de la membrana celular permite que solo ciertas moléculas puedan pasar a través de ella?",
+        "options": ["Permeabilidad selectiva", "Rigidez", "Impermeabilidad total", "Elasticidad"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de moléculas necesitan canales específicos para atravesar la membrana celular?",
+        "options": ["Moléculas hidrofóbicas", "Moléculas pequeñas sin carga", "Iones y moléculas cargadas", "Gases"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte celular requiere energía lumínica?",
+        "options": ["Bomba de sodio-potasio", "Bomba de protones", "Transporte pasivo", "Bomba impulsada por luz"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de transporte implica la fusión de vesículas con la membrana plasmática para liberar su contenido al exterior?",
+        "options": ["Endocitosis", "Exocitosis", "Difusión facilitada", "Transporte activo"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la principal diferencia entre el transporte activo y el transporte pasivo?",
+        "options": ["El transporte activo requiere ATP y el pasivo no", "El transporte pasivo requiere ATP y el activo no", "Ambos requieren ATP", "Ninguno requiere ATP"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de transporte celular permite la ingestión de líquidos y partículas pequeñas mediante vesículas?",
+        "options": ["Pinocitosis", "Fagocitosis", "Transporte activo", "Difusión facilitada"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué característica de la membrana celular permite la formación de gradientes de concentración?",
+        "options": ["Permeabilidad selectiva", "Rigidez", "Impermeabilidad total", "Elasticidad"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de proteínas forman poros hidrofílicos que permiten el paso de iones a través de la membrana?",
+        "options": ["Proteínas transportadoras", "Proteínas de canal", "Receptores de membrana", "Enzimas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte celular NO requiere el uso de proteínas?",
+        "options": ["Transporte activo", "Difusión facilitada", "Difusión simple", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal función de las bombas de sodio-potasio en la membrana celular?",
+        "options": ["Transportar glucosa", "Transportar oxígeno", "Crear gradientes de iones", "Transportar agua"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte implica el movimiento de moléculas a través de una membrana mediante proteínas de canal?",
+        "options": ["Transporte activo", "Difusión simple", "Difusión facilitada", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte celular involucra la ingestión de partículas grandes mediante vesículas?",
+        "options": ["Endocitosis", "Exocitosis", "Difusión facilitada", "Transporte activo"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de los siguientes tipos de transporte NO requiere el uso de ATP?",
+        "options": ["Transporte activo", "Difusión facilitada", "Difusión simple", "Endocitosis"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso utiliza vesículas para transportar sustancias desde el interior al exterior de la célula?",
+        "options": ["Endocitosis", "Exocitosis", "Difusión facilitada", "Transporte activo"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de moléculas pueden atravesar la membrana celular sin ayuda de proteínas?",
+        "options": ["Iones", "Moléculas grandes", "Moléculas pequeñas no polares", "Moléculas cargadas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte celular ocurre en contra del gradiente de concentración y requiere energía?",
+        "options": ["Difusión facilitada", "Difusión simple", "Transporte activo", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes NO es un tipo de transporte pasivo?",
+        "options": ["Difusión simple", "Difusión facilitada", "Transporte activo", "Osmosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte se clasifica en uniporte, simporte y antiporte?",
+        "options": ["Difusión simple", "Transporte activo", "Difusión facilitada", "Endocitosis"],
+        "answer": 1
+    },
+    {
+        "question": "¿Cuál es la función principal de los canales iónicos en la membrana celular?",
+        "options": ["Transportar agua", "Transportar proteínas", "Transportar iones", "Transportar glucosa"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte implica el movimiento de moléculas desde una región de mayor concentración a una de menor concentración?",
+        "options": ["Transporte activo", "Difusión facilitada", "Difusión simple", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte utiliza proteínas transmembrana para mover moléculas sin consumir ATP?",
+        "options": ["Transporte activo", "Difusión simple", "Difusión facilitada", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte utiliza energía química en forma de ATP?",
+        "options": ["Transporte pasivo", "Difusión simple", "Difusión facilitada", "Transporte activo"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué característica tienen las membranas que les permite regular el paso de sustancias?",
+        "options": ["Permeabilidad selectiva", "Rigidez", "Impermeabilidad total", "Elasticidad"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de moléculas requieren proteínas transportadoras para atravesar la membrana?",
+        "options": ["Moléculas hidrofóbicas", "Moléculas pequeñas sin carga", "Iones y moléculas cargadas", "Gases"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte requiere ATP para mover moléculas en contra de su gradiente de concentración?",
+        "options": ["Transporte pasivo", "Difusión simple", "Difusión facilitada", "Transporte activo"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de transporte ocurre a favor del gradiente de concentración y no requiere energía?",
+        "options": ["Transporte activo", "Difusión simple", "Endocitosis", "Exocitosis"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte implica el movimiento de moléculas a través de una membrana mediante proteínas de canal?",
+        "options": ["Transporte activo", "Difusión simple", "Difusión facilitada", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte celular permite la ingestión de líquidos y partículas pequeñas mediante vesículas?",
+        "options": ["Pinocitosis", "Fagocitosis", "Transporte activo", "Difusión facilitada"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de transporte celular utiliza energía lumínica?",
+        "options": ["Bomba de sodio-potasio", "Bomba de protones", "Transporte pasivo", "Bomba impulsada por luz"],
+        "answer": 3
+    },
+    {
+        "question": "¿Cuál de los siguientes procesos utiliza energía lumínica para el transporte de moléculas?",
+        "options": ["Bomba de sodio-potasio", "Bomba de protones", "Transporte pasivo", "Bomba impulsada por luz"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de transporte celular involucra la ingestión de partículas grandes mediante vesículas?",
+        "options": ["Endocitosis", "Exocitosis", "Difusión facilitada", "Transporte activo"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de canal permite el paso de iones en dirección opuesta?",
+        "options": ["Uniporte", "Antiporte", "Simporte", "Canal iónico"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte implica la fusión de vesículas con la membrana plasmática para liberar su contenido al exterior?",
+        "options": ["Endocitosis", "Exocitosis", "Difusión facilitada", "Transporte activo"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte utiliza proteínas de canal para permitir el paso de moléculas específicas?",
+        "options": ["Transporte activo", "Difusión simple", "Difusión facilitada", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte utiliza proteínas transmembrana para mover moléculas sin consumir ATP?",
+        "options": ["Transporte activo", "Difusión simple", "Difusión facilitada", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte se utiliza para mover moléculas en contra de su gradiente de concentración?",
+        "options": ["Transporte pasivo", "Difusión simple", "Difusión facilitada", "Transporte activo"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué característica tienen las membranas que les permite regular el paso de sustancias?",
+        "options": ["Permeabilidad selectiva", "Rigidez", "Impermeabilidad total", "Elasticidad"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de transporte no requiere energía y se realiza a favor del gradiente de concentración?",
+        "options": ["Transporte activo", "Difusión facilitada", "Difusión simple", "Ósmosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes transportes es un ejemplo de transporte activo?",
+        "options": ["Difusión simple", "Ósmosis", "Bomba de sodio-potasio", "Difusión facilitada"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte utiliza proteínas de canal para permitir el paso de moléculas específicas?",
+        "options": ["Difusión simple", "Difusión facilitada", "Transporte activo", "Ósmosis"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte implica la fusión de vesículas con la membrana plasmática para liberar su contenido al exterior?",
+        "options": ["Endocitosis", "Exocitosis", "Transporte activo", "Difusión facilitada"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte celular utiliza proteínas transportadoras y requiere energía?",
+        "options": ["Difusión simple", "Ósmosis", "Transporte activo", "Difusión facilitada"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte involucra la ingestión de partículas grandes mediante vesículas?",
+        "options": ["Exocitosis", "Pinocitosis", "Fagocitosis", "Difusión facilitada"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte se realiza en contra del gradiente de concentración y requiere energía?",
+        "options": ["Transporte activo", "Difusión facilitada", "Difusión simple", "Ósmosis"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de los siguientes procesos utiliza energía lumínica para el transporte de moléculas?",
+        "options": ["Bomba de sodio-potasio", "Bomba de protones", "Transporte pasivo", "Bomba impulsada por luz"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de transporte celular involucra la ingestión de partículas grandes mediante vesículas?",
+        "options": ["Endocitosis", "Exocitosis", "Difusión facilitada", "Transporte activo"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de canal permite el paso de iones en dirección opuesta?",
+        "options": ["Uniporte", "Antiporte", "Simporte", "Canal iónico"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte implica la fusión de vesículas con la membrana plasmática para liberar su contenido al exterior?",
+        "options": ["Endocitosis", "Exocitosis", "Difusión facilitada", "Transporte activo"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte utiliza proteínas de canal para permitir el paso de moléculas específicas?",
+        "options": ["Transporte activo", "Difusión simple", "Difusión facilitada", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte utiliza proteínas transmembrana para mover moléculas sin consumir ATP?",
+        "options": ["Transporte activo", "Difusión simple", "Difusión facilitada", "Endocitosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte se utiliza para mover moléculas en contra de su gradiente de concentración?",
+        "options": ["Transporte pasivo", "Difusión simple", "Difusión facilitada", "Transporte activo"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué característica tienen las membranas que les permite regular el paso de sustancias?",
+        "options": ["Permeabilidad selectiva", "Rigidez", "Impermeabilidad total", "Elasticidad"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de los siguientes procesos no requiere energía?",
+        "options": ["Transporte activo", "Endocitosis", "Exocitosis", "Difusión facilitada"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de transporte celular permite el paso de agua a través de una membrana semipermeable?",
+        "options": ["Difusión simple", "Difusión facilitada", "Ósmosis", "Transporte activo"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué proceso implica la formación de vesículas para transportar sustancias al interior de la célula?",
+        "options": ["Exocitosis", "Endocitosis", "Difusión simple", "Ósmosis"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte celular involucra la difusión facilitada?",
+        "options": ["Transporte pasivo", "Transporte activo", "Exocitosis", "Endocitosis"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué estructura celular es fundamental para la regulación del transporte de sustancias?",
+        "options": ["Núcleo", "Mitocondria", "Membrana plasmática", "Ribosoma"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de transporte permite el paso de iones mediante canales específicos sin consumir energía?",
+        "options": ["Transporte activo", "Difusión simple", "Difusión facilitada", "Ósmosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes procesos es un ejemplo de transporte pasivo?",
+        "options": ["Bomba de sodio-potasio", "Difusión facilitada", "Fagocitosis", "Endocitosis"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte utiliza ATP para mover sustancias a través de la membrana celular?",
+        "options": ["Difusión simple", "Difusión facilitada", "Transporte activo", "Ósmosis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proceso se utiliza para expulsar sustancias de la célula mediante vesículas?",
+        "options": ["Endocitosis", "Exocitosis", "Transporte activo", "Difusión facilitada"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte celular se realiza a través de proteínas de canal sin consumo de energía?",
+        "options": ["Transporte activo", "Difusión facilitada", "Exocitosis", "Endocitosis"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de transporte permite el paso de sustancias en contra del gradiente de concentración utilizando energía?",
+        "options": ["Transporte activo", "Difusión facilitada", "Difusión simple", "Ósmosis"],
+        "answer": 0
+    }
+]
+
+

@@ -1,0 +1,709 @@
+[
+    {
+        "question": "¿Cuál es la estructura básica de una membrana celular?",
+        "options": ["Monocapa lipídica", "Bicapa lipídica", "Tricapa lipídica", "Cuadricapa lipídica"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué modelo de organización de la membrana celular fue propuesto por Singer y Nicolson en 1972?",
+        "options": ["Modelo de mosaico fluido", "Modelo de capa proteica", "Modelo de doble capa", "Modelo de unidad de membrana"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de los siguientes componentes proporciona fluidez a la membrana celular?",
+        "options": ["Colesterol", "Ácidos grasos saturados", "Proteínas", "Ácidos nucleicos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de movimiento NO es común en los lípidos de la membrana celular?",
+        "options": ["Difusión lateral", "Flip-flop", "Rotación", "Desplazamiento transmembrana"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué función principal tienen los esfingolípidos en la membrana celular?",
+        "options": ["Formar la estructura de bicapa", "Proporcionar fluidez", "Actuar como receptores", "Transportar proteínas"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la función del colesterol en la membrana celular de las células animales?",
+        "options": ["Incrementar la fluidez", "Disminuir la rigidez", "Reducir la permeabilidad", "Aumentar la movilidad de proteínas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué característica distingue a las proteínas integrales de las periféricas en la membrana celular?",
+        "options": ["Integrales están unidas a lípidos", "Periféricas se disuelven fácilmente", "Integrales atraviesan la bicapa", "Periféricas forman canales iónicos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal función de las proteínas de anclaje en la membrana celular?",
+        "options": ["Transportar moléculas", "Unirse a lípidos", "Conectar el citoesqueleto", "Catalizar reacciones"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué técnica se utiliza para medir la movilidad de las proteínas en la membrana?",
+        "options": ["Microscopía electrónica", "Electroforesis", "FRAP", "Centrifugación"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué componente es esencial para la estructura y función de los microdominios de membrana conocidos como balsas lipídicas?",
+        "options": ["Colesterol", "Ácidos grasos saturados", "Proteínas transmembrana", "Glucolípidos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la función principal de las integrinas en la membrana celular?",
+        "options": ["Transportar iones", "Unirse al citoesqueleto", "Catalizar reacciones", "Formar receptores"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso permite la incorporación de proteínas y lípidos recién sintetizados a la membrana celular?",
+        "options": ["Exocitosis", "Endocitosis", "Difusión lateral", "Flip-flop"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de enlace mantiene la estructura de los fosfolípidos en la membrana?",
+        "options": ["Enlace iónico", "Enlace covalente", "Enlace de hidrógeno", "Enlace peptídico"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué propiedad de la membrana permite la difusión de gases como el oxígeno y el dióxido de carbono?",
+        "options": ["Permeabilidad selectiva", "Rigidez estructural", "Asimetría de lípidos", "Fluidez de proteínas"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de las siguientes afirmaciones es verdadera sobre la asimetría de la membrana celular?",
+        "options": ["Ambas capas tienen la misma composición de lípidos", "Las proteínas están distribuidas uniformemente", "Los glúcidos se encuentran mayormente en la capa externa", "Las moléculas de colesterol están igualmente distribuidas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura permite la comunicación directa entre células vegetales?",
+        "options": ["Plasmodesmos", "Desmosomas", "Tight junctions", "Gap junctions"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué técnica se utiliza para separar proteínas de membrana basándose en su tamaño y carga?",
+        "options": ["Electroforesis", "Centrifugación", "FRAP", "Microscopía electrónica"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué moléculas se difunden más fácilmente a través de la bicapa lipídica de la membrana celular?",
+        "options": ["Iones", "Moléculas polares grandes", "Moléculas hidrofóbicas pequeñas", "Proteínas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué función tienen los carbohidratos en la superficie de la membrana celular?",
+        "options": ["Proporcionar fluidez", "Actuar como barrera", "Reconocimiento celular", "Transportar lípidos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de proteínas forman canales que permiten el paso de iones a través de la membrana celular?",
+        "options": ["Proteínas de anclaje", "Proteínas transportadoras", "Proteínas receptoras", "Canales iónicos"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué característica estructural es clave para la función de las proteínas transmembrana?",
+        "options": ["Son periféricas", "Son hidrofóbicas", "Forman enlaces covalentes con lípidos", "Atraviesan la bicapa lipídica"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de movimiento de lípidos en la membrana celular es menos frecuente?",
+        "options": ["Difusión lateral", "Rotación", "Flip-flop", "Movimiento dentro de la misma capa"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de lípidos compone principalmente la bicapa de la membrana celular?",
+        "options": ["Glicerofosfolípidos", "Colesterol", "Ácidos grasos libres", "Glucolípidos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué función tienen las proteínas receptoras en la membrana celular?",
+        "options": ["Transportar moléculas", "Reconocer y unirse a ligandos específicos", "Catalizar reacciones químicas", "Proporcionar estructura a la membrana"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué propiedad de la membrana permite la flexibilidad y la capacidad de auto-reparación?",
+        "options": ["Asimetría", "Permeabilidad selectiva", "Fluidez", "Rigidez"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes componentes NO se encuentra en la membrana plasmática?",
+        "options": ["Fosfolípidos", "Ácidos nucleicos", "Colesterol", "Proteínas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica se utiliza para visualizar la estructura de las membranas celulares a nivel nanométrico?",
+        "options": ["Microscopía óptica", "Electroforesis", "Centrifugación", "Microscopía electrónica"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué efecto tiene el aumento de la temperatura en la fluidez de la membrana?",
+        "options": ["Aumenta la fluidez", "Disminuye la fluidez", "No tiene efecto", "Incrementa la rigidez"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué característica tienen las cabezas de los fosfolípidos en la membrana?",
+        "options": ["Son hidrofóbicas", "Son hidrofílicas", "Son anfipáticas", "Son apolares"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué componente de la membrana celular se intercalan entre las colas de los fosfolípidos para proporcionar rigidez?",
+        "options": ["Glicerofosfolípidos", "Colesterol", "Ácidos grasos libres", "Glucolípidos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué propiedad permite a las bicapas de fosfolípidos formar compartimentos cerrados espontáneamente?",
+        "options": ["Fluidez", "Asimetría", "Permeabilidad selectiva", "Anfipaticidad"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué molécula es crucial para la transducción de señales en las membranas celulares?",
+        "options": ["Ácido nucleico", "Proteínas receptoras", "Ácidos grasos libres", "Glucolípidos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica permite el estudio de la movilidad de los lípidos y proteínas en la membrana?",
+        "options": ["Centrifugación", "Electroforesis", "FRAP", "Microscopía óptica"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de las siguientes estructuras se encuentra exclusivamente en células vegetales?",
+        "options": ["Mitocondrias", "Cloroplastos", "Lisosomas", "Retículo endoplasmático"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué función tiene la membrana plasmática en el transporte de sustancias?",
+        "options": ["Actúa como barrera impermeable", "Permite el paso libre de todas las moléculas", "Regula el movimiento de sustancias entre el interior y el exterior de la célula", "Almacena nutrientes"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de proteínas permiten el paso de agua a través de la membrana celular?",
+        "options": ["Proteínas receptoras", "Canales iónicos", "Aquaporinas", "Proteínas de anclaje"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal función de las proteínas periféricas en la membrana celular?",
+        "options": ["Atraviesan la bicapa lipídica", "Unirse a moléculas específicas", "Estabilizar la estructura de la membrana", "Transportar iones"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué característica tienen las colas de los fosfolípidos en la membrana?",
+        "options": ["Son hidrofílicas", "Son hidrofóbicas", "Son polares", "Son anfipáticas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué componente de la membrana celular se encuentra en mayor proporción en las balsas lipídicas?",
+        "options": ["Glicerofosfolípidos", "Ácidos grasos libres", "Colesterol", "Proteínas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se utiliza para separar y analizar las proteínas de membrana?",
+        "options": ["Electroforesis en gel", "Centrifugación", "Microscopía electrónica", "FRAP"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué función tienen las proteínas transportadoras en la membrana celular?",
+        "options": ["Formar enlaces covalentes con lípidos", "Unirse a ligandos específicos", "Transportar moléculas a través de la membrana", "Catalizar reacciones"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de las siguientes moléculas NO atraviesa fácilmente la membrana celular sin ayuda de proteínas?",
+        "options": ["Oxígeno", "Dióxido de carbono", "Iones sodio", "Moléculas hidrofóbicas pequeñas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica utiliza la formación de cristales para estudiar las proteínas de membrana?",
+        "options": ["Difracción de rayos X", "Electroforesis", "Centrifugación", "Microscopía óptica"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de lípidos son los principales componentes estructurales de las membranas celulares?",
+        "options": ["Ácidos grasos libres", "Fosfolípidos", "Esteroides", "Glucolípidos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso utiliza vesículas para transportar sustancias hacia el exterior de la célula?",
+        "options": ["Endocitosis", "Exocitosis", "Difusión facilitada", "Transporte pasivo"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de proteína en la membrana celular cambia de forma para mover una sustancia a través de la membrana?",
+        "options": ["Canales iónicos", "Proteínas de anclaje", "Transportadores", "Receptores"],
+        "answer": 2
+    },    
+    {
+        "question": "¿Cuál es la estructura básica de una membrana celular?",
+        "options": ["Monocapa lipídica", "Bicapa lipídica", "Tricapa lipídica", "Cuadricapa lipídica"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué modelo de organización de la membrana celular fue propuesto por Singer y Nicolson en 1972?",
+        "options": ["Modelo de mosaico fluido", "Modelo de capa proteica", "Modelo de doble capa", "Modelo de unidad de membrana"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de los siguientes componentes proporciona fluidez a la membrana celular?",
+        "options": ["Colesterol", "Ácidos grasos saturados", "Proteínas", "Ácidos nucleicos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de movimiento NO es común en los lípidos de la membrana celular?",
+        "options": ["Difusión lateral", "Flip-flop", "Rotación", "Desplazamiento transmembrana"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué función principal tienen los esfingolípidos en la membrana celular?",
+        "options": ["Formar la estructura de bicapa", "Proporcionar fluidez", "Actuar como receptores", "Transportar proteínas"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la función del colesterol en la membrana celular de las células animales?",
+        "options": ["Incrementar la fluidez", "Disminuir la rigidez", "Reducir la permeabilidad", "Aumentar la movilidad de proteínas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué característica distingue a las proteínas integrales de las periféricas en la membrana celular?",
+        "options": ["Integrales están unidas a lípidos", "Periféricas se disuelven fácilmente", "Integrales atraviesan la bicapa", "Periféricas forman canales iónicos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal función de las proteínas de anclaje en la membrana celular?",
+        "options": ["Transportar moléculas", "Unirse a lípidos", "Conectar el citoesqueleto", "Catalizar reacciones"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se utiliza para medir la movilidad de las proteínas en la membrana?",
+        "options": ["Microscopía electrónica", "Electroforesis", "FRAP", "Centrifugación"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué componente es esencial para la estructura y función de los microdominios de membrana conocidos como balsas lipídicas?",
+        "options": ["Colesterol", "Ácidos grasos saturados", "Proteínas transmembrana", "Glucolípidos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál es la función principal de las integrinas en la membrana celular?",
+        "options": ["Transportar iones", "Unirse al citoesqueleto", "Catalizar reacciones", "Formar receptores"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso permite la incorporación de proteínas y lípidos recién sintetizados a la membrana celular?",
+        "options": ["Exocitosis", "Endocitosis", "Difusión lateral", "Flip-flop"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de enlace mantiene la estructura de los fosfolípidos en la membrana?",
+        "options": ["Enlace iónico", "Enlace covalente", "Enlace de hidrógeno", "Enlace peptídico"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué propiedad de la membrana permite la difusión de gases como el oxígeno y el dióxido de carbono?",
+        "options": ["Permeabilidad selectiva", "Rigidez estructural", "Asimetría de lípidos", "Fluidez de proteínas"],
+        "answer": 0
+    },
+    {
+        "question": "¿Cuál de las siguientes afirmaciones es verdadera sobre la asimetría de la membrana celular?",
+        "options": ["Ambas capas tienen la misma composición de lípidos", "Las proteínas están distribuidas uniformemente", "Los glúcidos se encuentran mayormente en la capa externa", "Las moléculas de colesterol están igualmente distribuidas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura permite la comunicación directa entre células vegetales?",
+        "options": ["Plasmodesmos", "Desmosomas", "Tight junctions", "Gap junctions"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué técnica se utiliza para separar proteínas de membrana basándose en su tamaño y carga?",
+        "options": ["Electroforesis", "Centrifugación", "FRAP", "Microscopía electrónica"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué moléculas se difunden más fácilmente a través de la bicapa lipídica de la membrana celular?",
+        "options": ["Iones", "Moléculas polares grandes", "Moléculas hidrofóbicas pequeñas", "Proteínas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué función tienen los carbohidratos en la superficie de la membrana celular?",
+        "options": ["Proporcionar fluidez", "Actuar como barrera", "Reconocimiento celular", "Transportar lípidos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de proteínas forman canales que permiten el paso de iones a través de la membrana celular?",
+        "options": ["Proteínas de anclaje", "Proteínas transportadoras", "Proteínas receptoras", "Canales iónicos"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué característica estructural es clave para la función de las proteínas transmembrana?",
+        "options": ["Son periféricas", "Son hidrofóbicas", "Forman enlaces covalentes con lípidos", "Atraviesan la bicapa lipídica"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de movimiento de lípidos en la membrana celular es menos frecuente?",
+        "options": ["Difusión lateral", "Rotación", "Flip-flop", "Movimiento dentro de la misma capa"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de lípidos compone principalmente la bicapa de la membrana celular?",
+        "options": ["Glicerofosfolípidos", "Colesterol", "Ácidos grasos libres", "Glucolípidos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué función tienen las proteínas receptoras en la membrana celular?",
+        "options": ["Transportar moléculas", "Reconocer y unirse a ligandos específicos", "Catalizar reacciones químicas", "Proporcionar estructura a la membrana"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué propiedad de la membrana permite la flexibilidad y la capacidad de auto-reparación?",
+        "options": ["Asimetría", "Permeabilidad selectiva", "Fluidez", "Rigidez"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de los siguientes componentes NO se encuentra en la membrana plasmática?",
+        "options": ["Fosfolípidos", "Ácidos nucleicos", "Colesterol", "Proteínas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica se utiliza para visualizar la estructura de las membranas celulares a nivel nanométrico?",
+        "options": ["Microscopía óptica", "Electroforesis", "Centrifugación", "Microscopía electrónica"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué efecto tiene el aumento de la temperatura en la fluidez de la membrana?",
+        "options": ["Aumenta la fluidez", "Disminuye la fluidez", "No tiene efecto", "Incrementa la rigidez"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué característica tienen las cabezas de los fosfolípidos en la membrana?",
+        "options": ["Son hidrofóbicas", "Son hidrofílicas", "Son anfipáticas", "Son apolares"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué componente de la membrana celular se intercalan entre las colas de los fosfolípidos para proporcionar rigidez?",
+        "options": ["Glicerofosfolípidos", "Colesterol", "Ácidos grasos libres", "Glucolípidos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué propiedad permite a las bicapas de fosfolípidos formar compartimentos cerrados espontáneamente?",
+        "options": ["Fluidez", "Asimetría", "Permeabilidad selectiva", "Anfipaticidad"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué molécula es crucial para la transducción de señales en las membranas celulares?",
+        "options": ["Ácido nucleico", "Proteínas receptoras", "Ácidos grasos libres", "Glucolípidos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica permite el estudio de la movilidad de los lípidos y proteínas en la membrana?",
+        "options": ["Centrifugación", "Electroforesis", "FRAP", "Microscopía óptica"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de las siguientes estructuras se encuentra exclusivamente en células vegetales?",
+        "options": ["Mitocondrias", "Cloroplastos", "Lisosomas", "Retículo endoplasmático"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué función tiene la membrana plasmática en el transporte de sustancias?",
+        "options": ["Actúa como barrera impermeable", "Permite el paso libre de todas las moléculas", "Regula el movimiento de sustancias entre el interior y el exterior de la célula", "Almacena nutrientes"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de proteínas permiten el paso de agua a través de la membrana celular?",
+        "options": ["Proteínas receptoras", "Canales iónicos", "Aquaporinas", "Proteínas de anclaje"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es la principal función de las proteínas periféricas en la membrana celular?",
+        "options": ["Atraviesan la bicapa lipídica", "Unirse a moléculas específicas", "Estabilizar la estructura de la membrana", "Transportar iones"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué característica tienen las colas de los fosfolípidos en la membrana?",
+        "options": ["Son hidrofílicas", "Son hidrofóbicas", "Son polares", "Son anfipáticas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué componente de la membrana celular se encuentra en mayor proporción en las balsas lipídicas?",
+        "options": ["Glicerofosfolípidos", "Ácidos grasos libres", "Colesterol", "Proteínas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se utiliza para separar y analizar las proteínas de membrana?",
+        "options": ["Electroforesis en gel", "Centrifugación", "Microscopía electrónica", "FRAP"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué función tienen las proteínas transportadoras en la membrana celular?",
+        "options": ["Formar enlaces covalentes con lípidos", "Unirse a ligandos específicos", "Transportar moléculas a través de la membrana", "Catalizar reacciones"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál de las siguientes moléculas NO atraviesa fácilmente la membrana celular sin ayuda de proteínas?",
+        "options": ["Oxígeno", "Dióxido de carbono", "Iones sodio", "Moléculas hidrofóbicas pequeñas"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica utiliza la formación de cristales para estudiar las proteínas de membrana?",
+        "options": ["Difracción de rayos X", "Electroforesis", "Centrifugación", "Microscopía óptica"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué tipo de lípidos son los principales componentes estructurales de las membranas celulares?",
+        "options": ["Ácidos grasos libres", "Fosfolípidos", "Esteroides", "Glucolípidos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso utiliza vesículas para transportar sustancias hacia el exterior de la célula?",
+        "options": ["Endocitosis", "Exocitosis", "Difusión facilitada", "Transporte pasivo"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de proteína en la membrana celular cambia de forma para mover una sustancia a través de la membrana?",
+        "options": ["Canales iónicos", "Proteínas de anclaje", "Transportadores", "Receptores"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué función tiene el retículo endoplasmático rugoso?",
+        "options": ["Síntesis de lípidos", "Síntesis de proteínas", "Degradación de desechos celulares", "Producción de energía"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de proteínas se encuentran incrustadas en la bicapa lipídica de la membrana?",
+        "options": ["Periféricas", "Integrales", "Anclaje", "Canales"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura de la membrana celular es responsable de la comunicación celular y reconocimiento?",
+        "options": ["Proteínas integrales", "Carbohidratos", "Fosfolípidos", "Colesterol"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué componente de la membrana celular es responsable de su estabilidad mecánica?",
+        "options": ["Proteínas", "Colesterol", "Fosfolípidos", "Carbohidratos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica se utiliza para estudiar la distribución de lípidos en las membranas celulares?",
+        "options": ["Microscopía electrónica", "Difracción de rayos X", "Espectrometría de masas", "FRAP"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proceso permite la entrada de partículas grandes en la célula mediante la formación de vesículas?",
+        "options": ["Exocitosis", "Pinocitosis", "Endocitosis", "Difusión facilitada"],
+        "answer": 2
+    },
+    {
+        "question": "¿Cuál es el principal componente lipídico de las balsas lipídicas?",
+        "options": ["Fosfolípidos", "Glicerofosfolípidos", "Colesterol", "Ácidos grasos libres"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura permite la adhesión de células adyacentes en los tejidos animales?",
+        "options": ["Plasmodesmos", "Desmosomas", "Tight junctions", "Gap junctions"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué función tienen los receptores de membrana en la transducción de señales?",
+        "options": ["Transportar iones", "Catalizar reacciones", "Unirse a ligandos específicos", "Formar canales iónicos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de moléculas forman el glicocálix en la superficie de la membrana celular?",
+        "options": ["Proteínas", "Lípidos", "Carbohidratos", "Ácidos nucleicos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué componente de la membrana celular actúa como barrera selectiva?",
+        "options": ["Colesterol", "Fosfolípidos", "Proteínas", "Carbohidratos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica se utiliza para observar la disposición de proteínas en las membranas?",
+        "options": ["Difracción de rayos X", "Microscopía de fuerza atómica", "Microscopía electrónica de transmisión", "FRAP"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura de la membrana es crucial para el transporte activo de iones?",
+        "options": ["Proteínas de transporte", "Colesterol", "Fosfolípidos", "Carbohidratos"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué propiedad de la membrana es vital para el reconocimiento celular y la respuesta inmune?",
+        "options": ["Permeabilidad selectiva", "Asimetría", "Rigidez", "Fluidez"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica se utiliza para medir la difusión de proteínas en la membrana?",
+        "options": ["Centrifugación", "FRAP", "Espectrometría de masas", "Electroforesis en gel"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué moléculas estabilizan las balsas lipídicas en la membrana celular?",
+        "options": ["Fosfolípidos", "Colesterol", "Proteínas transmembrana", "Glucolípidos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué estructura de la membrana celular es crucial para la comunicación intercelular en las plantas?",
+        "options": ["Desmosomas", "Plasmodesmos", "Gap junctions", "Tight junctions"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica se utiliza para estudiar la composición lipídica de las membranas?",
+        "options": ["Espectrometría de masas", "Electroforesis", "FRAP", "Centrifugación"],
+        "answer": 0
+    },
+    {
+        "question": "¿Qué proceso celular se caracteriza por la invaginación de la membrana plasmática para captar fluidos?",
+        "options": ["Exocitosis", "Pinocitosis", "Endocitosis", "Difusión facilitada"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de proteínas forman canales específicos para iones en la membrana?",
+        "options": ["Proteínas receptoras", "Proteínas periféricas", "Proteínas integrales", "Canales iónicos"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué componente de la membrana celular proporciona resistencia mecánica y flexibilidad?",
+        "options": ["Proteínas", "Fosfolípidos", "Colesterol", "Carbohidratos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué propiedad de los fosfolípidos permite la formación espontánea de bicapas en solución acuosa?",
+        "options": ["Hidrofobicidad", "Hidrofilicidad", "Anfipaticidad", "Rigidez"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se utiliza para analizar la movilidad de los componentes de la membrana en tiempo real?",
+        "options": ["Microscopía de fuerza atómica", "FRAP", "Espectrometría de masas", "Difracción de rayos X"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué función tiene la membrana celular en la regulación del volumen celular?",
+        "options": ["Permite el paso libre de todas las moléculas", "Almacena nutrientes", "Regula el movimiento de sustancias entre el interior y el exterior de la célula", "Actúa como barrera impermeable"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de lípidos se encuentran principalmente en la monocapa externa de la membrana plasmática?",
+        "options": ["Fosfatidilserina", "Fosfatidilcolina", "Fosfatidiletanolamina", "Fosfatidilinositol"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué función tienen las glicoproteínas en la superficie de la membrana celular?",
+        "options": ["Proporcionar fluidez", "Reconocimiento y comunicación celular", "Catalizar reacciones", "Transportar lípidos"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué característica de las membranas celulares permite la formación de microdominios especializados?",
+        "options": ["Rigidez", "Asimetría", "Permeabilidad", "Fluidez"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de enlace une a los lípidos y proteínas en la membrana celular?",
+        "options": ["Covalente", "Iónico", "Puente de hidrógeno", "Interacciones hidrofóbicas"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué proceso implica la formación de vesículas para incorporar sustancias a la célula?",
+        "options": ["Exocitosis", "Pinocitosis", "Endocitosis", "Difusión facilitada"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué tipo de proteínas en la membrana celular están involucradas en la transducción de señales?",
+        "options": ["Proteínas de transporte", "Receptores", "Canales iónicos", "Proteínas periféricas"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué técnica permite la visualización de la estructura de las membranas a nivel atómico?",
+        "options": ["FRAP", "Espectrometría de masas", "Microscopía de fuerza atómica", "Electroforesis"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué componente de la membrana celular es crucial para la adhesión celular?",
+        "options": ["Colesterol", "Carbohidratos", "Proteínas integrales", "Fosfolípidos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué propiedad de la membrana permite la separación de ambientes intracelulares y extracelulares?",
+        "options": ["Fluidez", "Rigidez", "Asimetría", "Permeabilidad selectiva"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué moléculas en la membrana celular son responsables de la señalización celular?",
+        "options": ["Fosfolípidos", "Carbohidratos", "Proteínas receptoras", "Ácidos nucleicos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se utiliza para separar las proteínas de membrana basándose en su solubilidad en detergentes?",
+        "options": ["Centrifugación", "Electroforesis en gel", "Espectrometría de masas", "Microscopía de fuerza atómica"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué componente de la membrana plasmática participa en la resistencia a tensiones mecánicas?",
+        "options": ["Fosfolípidos", "Proteínas de anclaje", "Colesterol", "Carbohidratos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué estructura permite la transferencia de información y materiales entre células animales?",
+        "options": ["Plasmodesmos", "Desmosomas", "Gap junctions", "Tight junctions"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se utiliza para analizar la composición química de las membranas celulares?",
+        "options": ["Difracción de rayos X", "Espectrometría de masas", "FRAP", "Electroforesis en gel"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué proceso se caracteriza por la internalización de partículas sólidas en la célula?",
+        "options": ["Exocitosis", "Fagocitosis", "Pinocitosis", "Endocitosis"],
+        "answer": 1
+    },
+    {
+        "question": "¿Qué tipo de proteínas en la membrana forman canales específicos para el paso de agua?",
+        "options": ["Canales iónicos", "Proteínas receptoras", "Aquaporinas", "Proteínas de anclaje"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué propiedad de las membranas celulares permite su auto-reparación?",
+        "options": ["Permeabilidad selectiva", "Rigidez", "Fluidez", "Asimetría"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué componente de la membrana celular se encuentra predominantemente en la monocapa interna?",
+        "options": ["Fosfatidilcolina", "Colesterol", "Fosfatidilserina", "Glucolípidos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué moléculas de la membrana celular actúan como antígenos en la respuesta inmune?",
+        "options": ["Proteínas", "Lípidos", "Carbohidratos", "Ácidos nucleicos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se utiliza para medir la dinámica de los lípidos en la membrana celular?",
+        "options": ["Espectrometría de masas", "Microscopía de fuerza atómica", "FRAP", "Difracción de rayos X"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué proceso celular implica la formación de vesículas para la exportación de sustancias?",
+        "options": ["Endocitosis", "Fagocitosis", "Pinocitosis", "Exocitosis"],
+        "answer": 3
+    },
+    {
+        "question": "¿Qué tipo de lípidos en la membrana están involucrados en la señalización celular?",
+        "options": ["Colesterol", "Fosfolípidos", "Glucolípidos", "Ácidos grasos libres"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué propiedad de los fosfolípidos permite la autoensamblaje de bicapas?",
+        "options": ["Hidrofobicidad", "Hidrofilicidad", "Anfipaticidad", "Rigidez"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué componente de la membrana celular actúa como receptor de señales externas?",
+        "options": ["Fosfolípidos", "Colesterol", "Proteínas integrales", "Carbohidratos"],
+        "answer": 2
+    },
+    {
+        "question": "¿Qué técnica se utiliza para analizar la composición lipídica de las membranas?",
+        "options": ["Centrifugación", "Electroforesis en gel", "Espectrometría de masas", "FRAP"],
+        "answer": 2
+    }
+    
+    
+]
