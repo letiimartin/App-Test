@@ -32,17 +32,38 @@ function loadMenu() {
     ];
 
     themes.forEach(theme => {
-        const themeElement = document.createElement('div');
-        themeElement.classList.add('theme');
-        themeElement.innerHTML = `<h2>${theme.title}</h2>`;
-        for (let test = 1; test <= 10; test++) {
-            const testElement = document.createElement('a');
-            testElement.href = `test.html?tema=${theme.id}&test=${test}`;
-            testElement.textContent = `Test ${test}`;
-            testElement.style.display = 'block';
-            themeElement.appendChild(testElement);
-        }
-        menuContainer.appendChild(themeElement);
+        fetch(`tests/${theme.id}.json`)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(questions => {
+                const availableTests = Math.floor(questions.length / 10);
+                const themeElement = document.createElement('div');
+                themeElement.classList.add('theme');
+                themeElement.innerHTML = `<h2>${theme.title}</h2>`;
+                if (availableTests > 0) {
+                    for (let test = 1; test <= availableTests; test++) {
+                        const testElement = document.createElement('a');
+                        testElement.href = `test.html?tema=${theme.id}&test=${test}`;
+                        testElement.textContent = `Test ${test}`;
+                        testElement.style.display = 'block';
+                        themeElement.appendChild(testElement);
+                    }
+                } else {
+                    themeElement.innerHTML += `<p>No hay suficientes preguntas disponibles para generar tests.</p>`;
+                }
+                menuContainer.appendChild(themeElement);
+            })
+            .catch(error => {
+                console.error('Error al cargar el archivo JSON:', error);
+                const themeElement = document.createElement('div');
+                themeElement.classList.add('theme');
+                themeElement.innerHTML = `<h2>${theme.title}</h2><p>Error al cargar las preguntas.</p>`;
+                menuContainer.appendChild(themeElement);
+            });
     });
 
     console.log("Menu loaded");
